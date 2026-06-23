@@ -1,0 +1,233 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products & Services",
+    "team": "Team",
+    "portfolio": "Portfolio",
+    "partners": "Partners",
+    "clients": "Clients",
+    "contact": "Contact Us",
+    "requestQuote": "Request a Quotation"
+  },
+  "common": {
+    "requestQuotation": "Request a Quotation",
+    "requestFreeQuotation": "Request a Free Quotation",
+    "contactUs": "Contact Us",
+    "whatsapp": "WhatsApp",
+    "learnMore": "Learn More",
+    "viewAll": "View All",
+    "send": "Send",
+    "loading": "Loading…"
+  },
+  "home": {
+    "hero": {
+      "headline": "Trusted IT Equipment & Enterprise Technology Solutions in Lao PDR",
+      "subheadline": "Delivering reliable IT infrastructure, security systems, networking solutions, and professional technical services."
+    },
+    "intro": {
+      "title": "Your Trusted Technology Partner",
+      "body": "ID Solution Sole Co., Ltd. is a leading distributor of IT equipment, enterprise infrastructure, and security systems in Lao PDR. We provide supply, installation, maintenance, and technical support for organizations across the country — backed by certified engineers and official partnerships with the world's leading technology brands.",
+      "experience": "Years of experience serving government, banking, enterprise, and SME customers.",
+      "commitment": "We are committed to reliable solutions, honest advice, and dependable after-sales support."
+    },
+    "why": {
+      "title": "Why Choose Us",
+      "subtitle": "What makes ID Solution the trusted choice for organizations across Lao PDR.",
+      "items": {
+        "professionalTeam": {
+          "title": "Professional Team",
+          "body": "Certified and experienced IT engineers."
+        },
+        "enterpriseExpertise": {
+          "title": "Enterprise Expertise",
+          "body": "Server, networking and security solutions."
+        },
+        "trustedBrands": {
+          "title": "Trusted Brands",
+          "body": "Official products from leading vendors."
+        },
+        "afterSales": {
+          "title": "After Sales Support",
+          "body": "Reliable maintenance and technical support."
+        },
+        "pricing": {
+          "title": "Competitive Pricing",
+          "body": "Affordable and scalable solutions."
+        },
+        "nationwide": {
+          "title": "Nationwide Service",
+          "body": "Projects throughout Lao PDR."
+        }
+      }
+    },
+    "industries": {
+      "title": "Industries We Serve",
+      "subtitle": "Tailored technology solutions for every sector.",
+      "items": {
+        "government": "Government",
+        "education": "Education",
+        "banking": "Banking",
+        "logistics": "Logistics",
+        "manufacturing": "Manufacturing",
+        "retail": "Retail",
+        "hospitality": "Hospitality",
+        "smes": "SMEs"
+      }
+    }
+  },
+  "products": {
+    "title": "Products & Services",
+    "subtitle": "A complete range of IT equipment, enterprise infrastructure, and security solutions — with supply, installation, maintenance, and support.",
+    "consumer": {
+      "title": "Consumer IT Equipment",
+      "items": {
+        "desktops": "Desktop Computers",
+        "laptops": "Laptops",
+        "printers": "Printers",
+        "monitors": "Monitors",
+        "routers": "Routers",
+        "accessPoints": "Access Points",
+        "switches": "Network Switches",
+        "accessories": "Office IT Accessories"
+      }
+    },
+    "enterprise": {
+      "title": "Enterprise Solutions",
+      "items": {
+        "servers": "Servers",
+        "firewalls": "Firewalls",
+        "ups": "UPS Systems",
+        "enterpriseSwitches": "Enterprise Switches",
+        "cabling": "Structured Cabling",
+        "datacenter": "Data Center Equipment",
+        "networkInfra": "Network Infrastructure",
+        "backup": "Backup Solutions"
+      }
+    },
+    "cctv": {
+      "title": "CCTV Security Systems",
+      "items": {
+        "supply": "CCTV Supply",
+        "installation": "CCTV Installation",
+        "maintenance": "CCTV Maintenance",
+        "surveillance": "Video Surveillance Solutions"
+      }
+    },
+    "accessControl": {
+      "title": "Access Control Systems",
+      "items": {
+        "fingerprint": "Fingerprint Systems",
+        "face": "Face Recognition",
+        "card": "Card Access",
+        "attendance": "Attendance Systems"
+      }
+    },
+    "gateBarrier": {
+      "title": "Gate Barrier Systems",
+      "items": {
+        "vehicle": "Vehicle Access Control",
+        "parking": "Parking Systems",
+        "automatic": "Automatic Gate Barriers"
+      }
+    }
+  },
+  "team": {
+    "title": "Our Team",
+    "subtitle": "Meet the certified professionals behind ID Solution.",
+    "roles": {
+      "managingDirector": { "name": "Managing Director", "position": "Managing Director", "bio": "Leading ID Solution's strategy and growth with years of experience in the IT industry." },
+      "salesExecutive1": { "name": "Sales Executive", "position": "Sales Executive", "bio": "Helping customers find the right technology solutions for their organization." },
+      "salesExecutive2": { "name": "Sales Executive", "position": "Sales Executive", "bio": "Dedicated to building lasting client relationships and tailored proposals." },
+      "itEngineer1": { "name": "IT Engineer", "position": "IT Engineer", "bio": "Specialist in server, networking, and enterprise infrastructure deployment." },
+      "itEngineer2": { "name": "IT Engineer", "position": "IT Engineer", "bio": "Expert in CCTV, access control, and security system installation." },
+      "itEngineer3": { "name": "IT Engineer", "position": "IT Engineer", "bio": "Focused on maintenance, technical support, and customer success." },
+      "adminAccountant": { "name": "Admin & Accountant", "position": "Admin & Accountant", "bio": "Keeping operations smooth and customer accounts well managed." }
+    }
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "subtitle": "A selection of our IT and security projects across Lao PDR.",
+    "categories": {
+      "itEquipmentSupply": "IT Equipment Supply",
+      "serverInstallation": "Server Installation",
+      "networkInfrastructure": "Network Infrastructure",
+      "cctvInstallation": "CCTV Installation",
+      "accessControlProjects": "Access Control Projects",
+      "enterpriseSolutions": "Enterprise Solutions"
+    },
+    "all": "All"
+  },
+  "partners": {
+    "title": "Our Technology Partners",
+    "subtitle": "We work with the world's leading technology brands to deliver trusted solutions.",
+    "categories": {
+      "enterpriseInfrastructure": "Enterprise Infrastructure",
+      "endUserComputing": "End User Computing",
+      "security": "Security",
+      "printing": "Printing",
+      "cctv": "CCTV",
+      "accessControl": "Access Control",
+      "upsPower": "UPS & Power",
+      "softwareCloud": "Software & Cloud"
+    }
+  },
+  "clients": {
+    "title": "Our Clients",
+    "subtitle": "Trusted by organizations across Lao PDR.",
+    "empty": "Client references coming soon."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch for inquiries, quotations, and technical support.",
+    "infoTitle": "Contact Information",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "facebook": "Facebook",
+    "whatsapp": "WhatsApp",
+    "mapTitle": "Find Us",
+    "form": {
+      "title": "Send Us a Message",
+      "fullName": "Full Name",
+      "company": "Company Name",
+      "phone": "Phone Number",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Submit Inquiry",
+      "requestQuote": "Request Quotation",
+      "success": "Thank you! Your message has been sent. We will get back to you soon.",
+      "error": "Something went wrong. Please try again or contact us directly.",
+      "sending": "Sending…",
+      "required": "This field is required"
+    }
+  },
+  "quote": {
+    "title": "Request a Quotation",
+    "subtitle": "Tell us what you need and we'll prepare a free, no-obligation quotation.",
+    "form": {
+      "name": "Name",
+      "company": "Company",
+      "phone": "Phone",
+      "email": "Email",
+      "product": "Product / Service Required",
+      "description": "Project Description",
+      "submit": "Request a Free Quotation",
+      "success": "Thank you! Your quotation request has been received. We will contact you shortly.",
+      "error": "Something went wrong. Please try again or contact us directly.",
+      "sending": "Sending…"
+    }
+  },
+  "footer": {
+    "description": "Distributor of IT equipment, enterprise infrastructure, CCTV security, access control, gate barriers, and office supplies in Lao PDR — including supply, installation, maintenance, and technical support.",
+    "quickLinks": "Quick Links",
+    "products": "Products & Services",
+    "contactTitle": "Contact",
+    "viewOnMap": "View on Google Maps",
+    "rights": "All Rights Reserved."
+  },
+  "meta": {
+    "title": "ID Solution Sole Co., Ltd. | IT Equipment & Enterprise Solutions in Laos",
+    "description": "Distributor of IT equipment, office supplies, enterprise infrastructure, CCTV systems, access control, gate barriers, and professional IT services in Lao PDR."
+  }
+}

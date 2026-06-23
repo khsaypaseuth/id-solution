@@ -1,0 +1,233 @@
+{
+  "nav": {
+    "home": "首页",
+    "products": "产品与服务",
+    "team": "团队",
+    "portfolio": "项目案例",
+    "partners": "合作伙伴",
+    "clients": "客户",
+    "contact": "联系我们",
+    "requestQuote": "申请报价"
+  },
+  "common": {
+    "requestQuotation": "申请报价",
+    "requestFreeQuotation": "申请免费报价",
+    "contactUs": "联系我们",
+    "whatsapp": "WhatsApp",
+    "learnMore": "了解更多",
+    "viewAll": "查看全部",
+    "send": "发送",
+    "loading": "加载中…"
+  },
+  "home": {
+    "hero": {
+      "headline": "老挝人民民主共和国值得信赖的IT设备与企业级技术解决方案",
+      "subheadline": "提供可靠的IT基础设施、安防系统、网络解决方案及专业技术服务。"
+    },
+    "intro": {
+      "title": "您值得信赖的技术合作伙伴",
+      "body": "ID Solution Sole Co., Ltd. 是老挝人民民主共和国领先的IT设备、企业级基础设施及安防系统供应商。我们为全国各类机构提供供货、安装、维护和技术支持服务——由认证工程师团队提供保障，并与全球领先的技术品牌建立官方合作关系。",
+      "experience": "多年来为政府、银行、企业及中小企业客户提供服务的丰富经验。",
+      "commitment": "我们致力于提供可靠的解决方案、诚信的建议以及值得信赖的售后支持。"
+    },
+    "why": {
+      "title": "为何选择我们",
+      "subtitle": "ID Solution 成为老挝全国各机构值得信赖之选的原因所在。",
+      "items": {
+        "professionalTeam": {
+          "title": "专业团队",
+          "body": "经过认证且经验丰富的IT工程师。"
+        },
+        "enterpriseExpertise": {
+          "title": "企业级专业能力",
+          "body": "服务器、网络及安防解决方案。"
+        },
+        "trustedBrands": {
+          "title": "值得信赖的品牌",
+          "body": "来自领先厂商的正品产品。"
+        },
+        "afterSales": {
+          "title": "售后支持",
+          "body": "可靠的维护与技术支持。"
+        },
+        "pricing": {
+          "title": "极具竞争力的价格",
+          "body": "经济实惠且可灵活扩展的解决方案。"
+        },
+        "nationwide": {
+          "title": "全国服务",
+          "body": "项目遍及老挝全国。"
+        }
+      }
+    },
+    "industries": {
+      "title": "我们服务的行业",
+      "subtitle": "为各行各业量身定制的技术解决方案。",
+      "items": {
+        "government": "政府机构",
+        "education": "教育行业",
+        "banking": "银行业",
+        "logistics": "物流业",
+        "manufacturing": "制造业",
+        "retail": "零售业",
+        "hospitality": "酒店服务业",
+        "smes": "中小企业"
+      }
+    }
+  },
+  "products": {
+    "title": "产品与服务",
+    "subtitle": "完整的IT设备、企业级基础设施及安防解决方案系列——提供供货、安装、维护与支持服务。",
+    "consumer": {
+      "title": "消费级IT设备",
+      "items": {
+        "desktops": "台式电脑",
+        "laptops": "笔记本电脑",
+        "printers": "打印机",
+        "monitors": "显示器",
+        "routers": "路由器",
+        "accessPoints": "无线接入点",
+        "switches": "网络交换机",
+        "accessories": "办公IT配件"
+      }
+    },
+    "enterprise": {
+      "title": "企业级解决方案",
+      "items": {
+        "servers": "服务器",
+        "firewalls": "防火墙",
+        "ups": "UPS电源系统",
+        "enterpriseSwitches": "企业级交换机",
+        "cabling": "综合布线",
+        "datacenter": "数据中心设备",
+        "networkInfra": "网络基础设施",
+        "backup": "备份解决方案"
+      }
+    },
+    "cctv": {
+      "title": "CCTV监控安防系统",
+      "items": {
+        "supply": "CCTV监控设备供货",
+        "installation": "CCTV监控安装",
+        "maintenance": "CCTV监控维护",
+        "surveillance": "视频监控解决方案"
+      }
+    },
+    "accessControl": {
+      "title": "门禁控制系统",
+      "items": {
+        "fingerprint": "指纹识别系统",
+        "face": "人脸识别",
+        "card": "刷卡门禁",
+        "attendance": "考勤系统"
+      }
+    },
+    "gateBarrier": {
+      "title": "道闸系统",
+      "items": {
+        "vehicle": "车辆出入管理",
+        "parking": "停车场系统",
+        "automatic": "自动道闸"
+      }
+    }
+  },
+  "team": {
+    "title": "我们的团队",
+    "subtitle": "认识 ID Solution 背后的认证专业人员。",
+    "roles": {
+      "managingDirector": { "name": "董事总经理", "position": "董事总经理", "bio": "凭借在IT行业多年的经验，引领 ID Solution 的战略发展与业务增长。" },
+      "salesExecutive1": { "name": "销售主管", "position": "销售主管", "bio": "帮助客户为其机构找到合适的技术解决方案。" },
+      "salesExecutive2": { "name": "销售主管", "position": "销售主管", "bio": "致力于建立长期的客户关系并提供量身定制的方案。" },
+      "itEngineer1": { "name": "IT工程师", "position": "IT工程师", "bio": "专精于服务器、网络及企业级基础设施的部署。" },
+      "itEngineer2": { "name": "IT工程师", "position": "IT工程师", "bio": "擅长CCTV监控、门禁控制及安防系统的安装。" },
+      "itEngineer3": { "name": "IT工程师", "position": "IT工程师", "bio": "专注于维护、技术支持与客户成功服务。" },
+      "adminAccountant": { "name": "行政与会计", "position": "行政与会计", "bio": "确保运营顺畅，妥善管理客户账务。" }
+    }
+  },
+  "portfolio": {
+    "title": "项目案例",
+    "subtitle": "精选我们在老挝全国各地的IT与安防项目案例。",
+    "categories": {
+      "itEquipmentSupply": "IT设备供货",
+      "serverInstallation": "服务器安装",
+      "networkInfrastructure": "网络基础设施",
+      "cctvInstallation": "CCTV监控安装",
+      "accessControlProjects": "门禁控制项目",
+      "enterpriseSolutions": "企业级解决方案"
+    },
+    "all": "全部"
+  },
+  "partners": {
+    "title": "我们的技术合作伙伴",
+    "subtitle": "我们与全球领先的技术品牌合作，为客户提供值得信赖的解决方案。",
+    "categories": {
+      "enterpriseInfrastructure": "企业级基础设施",
+      "endUserComputing": "终端用户计算",
+      "security": "安防",
+      "printing": "打印",
+      "cctv": "CCTV监控",
+      "accessControl": "门禁控制",
+      "upsPower": "UPS电源",
+      "softwareCloud": "软件与云服务"
+    }
+  },
+  "clients": {
+    "title": "我们的客户",
+    "subtitle": "深受老挝全国各机构信赖。",
+    "empty": "客户案例即将上线。"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "如有咨询、报价及技术支持需求，欢迎与我们联系。",
+    "infoTitle": "联系方式",
+    "address": "地址",
+    "phone": "电话",
+    "email": "电子邮箱",
+    "facebook": "Facebook",
+    "whatsapp": "WhatsApp",
+    "mapTitle": "找到我们",
+    "form": {
+      "title": "给我们留言",
+      "fullName": "姓名",
+      "company": "公司名称",
+      "phone": "电话号码",
+      "email": "电子邮箱",
+      "subject": "主题",
+      "message": "留言内容",
+      "submit": "提交咨询",
+      "requestQuote": "申请报价",
+      "success": "感谢您！您的留言已成功发送。我们将尽快与您联系。",
+      "error": "出现错误。请重试或直接与我们联系。",
+      "sending": "发送中…",
+      "required": "此项为必填项"
+    }
+  },
+  "quote": {
+    "title": "申请报价",
+    "subtitle": "请告诉我们您的需求，我们将为您准备一份免费、无任何附加条件的报价。",
+    "form": {
+      "name": "姓名",
+      "company": "公司",
+      "phone": "电话",
+      "email": "电子邮箱",
+      "product": "所需产品／服务",
+      "description": "项目说明",
+      "submit": "申请免费报价",
+      "success": "感谢您！我们已收到您的报价申请，将尽快与您联系。",
+      "error": "出现错误。请重试或直接与我们联系。",
+      "sending": "发送中…"
+    }
+  },
+  "footer": {
+    "description": "老挝人民民主共和国IT设备、企业级基础设施、CCTV监控安防、门禁控制、道闸及办公用品供应商——提供供货、安装、维护与技术支持服务。",
+    "quickLinks": "快速链接",
+    "products": "产品与服务",
+    "contactTitle": "联系方式",
+    "viewOnMap": "在谷歌地图上查看",
+    "rights": "版权所有。"
+  },
+  "meta": {
+    "title": "ID Solution Sole Co., Ltd. | 老挝IT设备与企业级解决方案",
+    "description": "老挝人民民主共和国IT设备、办公用品、企业级基础设施、CCTV监控系统、门禁控制、道闸及专业IT服务供应商。"
+  }
+}
