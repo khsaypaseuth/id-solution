@@ -14,11 +14,11 @@ export default async function ProductsPage({
   const dict = getDictionary(loc);
 
   const sections = [
-    { key: 'consumer', Icon: IconMonitor, image: '/images/products-consumer.svg', items: dict.products.consumer.items, title: dict.products.consumer.title },
-    { key: 'enterprise', Icon: IconServer, image: '/images/products-enterprise.svg', items: dict.products.enterprise.items, title: dict.products.enterprise.title },
-    { key: 'cctv', Icon: IconCamera, image: '/images/products-cctv.svg', items: dict.products.cctv.items, title: dict.products.cctv.title },
-    { key: 'accessControl', Icon: IconFingerprint, image: '/images/products-access.svg', items: dict.products.accessControl.items, title: dict.products.accessControl.title },
-    { key: 'gateBarrier', Icon: IconGate, image: '/images/products-gate.svg', items: dict.products.gateBarrier.items, title: dict.products.gateBarrier.title },
+    { key: 'consumer', Icon: IconMonitor, image: '/images/products-consumer.jpg', items: dict.products.consumer.items, title: dict.products.consumer.title },
+    { key: 'enterprise', Icon: IconServer, image: '/images/products-enterprise.jpg', items: dict.products.enterprise.items, title: dict.products.enterprise.title },
+    { key: 'cctv', Icon: IconCamera, image: '/images/products-cctv.jpg', items: dict.products.cctv.items, title: dict.products.cctv.title },
+    { key: 'accessControl', Icon: IconFingerprint, image: '/images/products-access.jpg', items: dict.products.accessControl.items, title: dict.products.accessControl.title },
+    { key: 'gateBarrier', Icon: IconGate, image: '/images/products-gate.jpg', items: dict.products.gateBarrier.items, title: dict.products.gateBarrier.title },
   ] as const;
 
   return (

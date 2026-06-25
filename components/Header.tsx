@@ -51,14 +51,12 @@ export default function Header({
     >
       <div className="container-px flex h-16 items-center justify-between gap-4 md:h-20">
         {/* Logo */}
-        <Link href={`/${locale}`} className="flex items-center gap-2" aria-label="ID Solution home">
-          <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-brand-primary text-sm font-extrabold text-white">
-            ID
-          </span>
-          <span className="hidden flex-col leading-tight sm:flex">
-            <span className="text-base font-bold text-brand-primary">ID Solution</span>
-            <span className="text-[10px] uppercase tracking-wider text-ink/50">Sole Co., Ltd.</span>
-          </span>
+        <Link href={`/${locale}`} className="flex items-center" aria-label="ID Solution home">
+          <img
+            src="/logo.png"
+            alt="ID Solution Sole Co., Ltd."
+            className="h-11 w-auto md:h-14"
+          />
         </Link>
 
         {/* Desktop nav */}
@@ -81,8 +79,8 @@ export default function Header({
         {/* Right actions */}
         <div className="flex items-center gap-2">
           <LanguageSwitcher currentLocale={locale} />
-          <Link href={`/${locale}/contact#quote`} className="btn-primary hidden md:inline-flex !px-4 !py-2">
-            {dict.nav.requestQuote}
+          <Link href={`/${locale}/contact`} className="btn-primary hidden md:inline-flex !px-4 !py-2">
+            {dict.nav.contact}
           </Link>
           {/* Hamburger */}
           <button
@@ -118,8 +116,8 @@ export default function Header({
                 {l.label}
               </Link>
             ))}
-            <Link href={`/${locale}/contact#quote`} className="btn-primary mt-2 w-full">
-              {dict.nav.requestQuote}
+            <Link href={`/${locale}/contact`} className="btn-primary mt-2 w-full">
+              {dict.nav.contact}
             </Link>
           </div>
         </nav>

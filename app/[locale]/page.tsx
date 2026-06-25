@@ -43,7 +43,7 @@ export default async function HomePage({
       <section className="relative overflow-hidden bg-brand-primary text-white">
         <div
           className="absolute inset-0 bg-cover bg-center"
-          style={{ backgroundImage: 'url(/images/hero.svg)' }}
+          style={{ backgroundImage: 'url(/images/hero.jpg)' }}
           aria-hidden
         />
         <div className="absolute inset-0 bg-gradient-to-br from-brand-primary/95 via-brand-primary/85 to-brand-secondary/70" aria-hidden />
@@ -93,7 +93,7 @@ export default async function HomePage({
           <div className="aspect-[4/3] overflow-hidden rounded-2xl bg-gradient-to-br from-brand-secondary/10 to-brand-primary/10">
             {/* Replace /public/images/about.jpg */}
             <img
-              src="/images/about.svg"
+              src="/images/about.jpg"
               alt="ID Solution team and technology"
               className="h-full w-full object-cover"
               loading="lazy"

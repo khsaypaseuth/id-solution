@@ -134,6 +134,7 @@
   "team": {
     "title": "我们的团队",
     "subtitle": "认识 ID Solution 背后的认证专业人员。",
+    "chart": { "title": "组织架构图", "sales": "销售部", "technical": "技术部", "admin": "行政部" },
     "roles": {
       "managingDirector": { "name": "董事总经理", "position": "董事总经理", "bio": "凭借在IT行业多年的经验，引领 ID Solution 的战略发展与业务增长。" },
       "salesExecutive1": { "name": "销售主管", "position": "销售主管", "bio": "帮助客户为其机构找到合适的技术解决方案。" },

@@ -60,7 +60,7 @@ The forms use [Web3Forms](https://web3forms.com) (free). Get an access key and s
 web3formsKey: 'YOUR_WEB3FORMS_ACCESS_KEY',
 ```
 
-Submissions are emailed to the address you register with Web3Forms (use `Id7.Solution@gmail.com`).
+Submissions are emailed to the address you register with Web3Forms (use `info@idsolution.la`).
 
 ### 2. Contact details, partners, clients, team
 All language-neutral data lives in [`lib/site.ts`](lib/site.ts):

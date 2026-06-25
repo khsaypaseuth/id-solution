@@ -1,6 +1,7 @@
 import { isLocale } from '@/i18n/config';
 import { getDictionary } from '@/i18n/dictionaries';
 import PageHero from '@/components/PageHero';
+import BrandLogo from '@/components/BrandLogo';
 import { PARTNER_CATEGORIES } from '@/lib/site';
 
 export default async function PartnersPage({
@@ -25,12 +26,10 @@ export default async function PartnersPage({
             <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
               {cat.brands.map((brand) => (
                 <div
-                  key={brand}
+                  key={brand.slug}
                   className="group flex h-24 items-center justify-center rounded-xl border border-gray-100 bg-white px-4 text-center shadow-sm transition-all duration-300 hover:-translate-y-0.5 hover:shadow-md"
                 >
-                  <span className="text-base font-semibold text-gray-400 transition-colors duration-300 group-hover:text-brand-primary">
-                    {brand}
-                  </span>
+                  <BrandLogo name={brand.name} slug={brand.slug} />
                 </div>
               ))}
             </div>

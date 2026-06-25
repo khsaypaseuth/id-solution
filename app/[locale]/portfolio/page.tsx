@@ -24,7 +24,7 @@ export default async function PortfolioPage({
       id: `${category}-${n}`,
       category,
       categoryLabel: dict.portfolio.categories[category as keyof typeof dict.portfolio.categories],
-      image: `/portfolio/project-${ci * 2 + n}.svg`,
+      image: `/portfolio/project-${ci * 2 + n}.jpg`,
     })),
   );
 

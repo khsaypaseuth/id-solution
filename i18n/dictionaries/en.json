@@ -134,6 +134,7 @@
   "team": {
     "title": "Our Team",
     "subtitle": "Meet the certified professionals behind ID Solution.",
+    "chart": { "title": "Organization Chart", "sales": "Sales", "technical": "Technical", "admin": "Administration" },
     "roles": {
       "managingDirector": { "name": "Managing Director", "position": "Managing Director", "bio": "Leading ID Solution's strategy and growth with years of experience in the IT industry." },
       "salesExecutive1": { "name": "Sales Executive", "position": "Sales Executive", "bio": "Helping customers find the right technology solutions for their organization." },

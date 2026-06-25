@@ -2,6 +2,7 @@ import Link from 'next/link';
 import type { Locale } from '@/i18n/config';
 import type { Dictionary } from '@/i18n/dictionaries';
 import { SITE, whatsappLink } from '@/lib/site';
+import { IconFacebook, IconWhatsApp, IconPin } from '@/components/Icons';
 
 export default function Footer({ locale, dict }: { locale: Locale; dict: Dictionary }) {
   const year = 2026;
@@ -20,11 +21,8 @@ export default function Footer({ locale, dict }: { locale: Locale; dict: Diction
       <div className="container-px grid gap-10 py-14 md:grid-cols-2 lg:grid-cols-4">
         {/* About */}
         <div>
-          <div className="mb-3 flex items-center gap-2">
-            <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-white text-sm font-extrabold text-brand-primary">
-              ID
-            </span>
-            <span className="text-base font-bold">{SITE.shortName}</span>
+          <div className="mb-4">
+            <img src="/whitelogo.png" alt={SITE.name} className="h-14 w-auto" />
           </div>
           <p className="text-sm leading-relaxed text-white/70">{dict.footer.description}</p>
         </div>
@@ -66,15 +64,36 @@ export default function Footer({ locale, dict }: { locale: Locale; dict: Diction
           <h3 className="mb-4 text-sm font-semibold uppercase tracking-wider text-white/90">
             {dict.contact.mapTitle}
           </h3>
-          <div className="flex flex-wrap gap-3 text-sm">
-            <a href={SITE.facebook} target="_blank" rel="noopener noreferrer" className="text-white/70 hover:text-brand-accent">
-              Facebook
+          <div className="flex flex-wrap gap-3">
+            <a
+              href={SITE.facebook}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Facebook"
+              title="Facebook"
+              className="flex h-10 w-10 items-center justify-center rounded-full bg-white/10 text-white/80 transition-colors hover:bg-brand-accent hover:text-white"
+            >
+              <IconFacebook width={18} height={18} />
             </a>
-            <a href={whatsappLink()} target="_blank" rel="noopener noreferrer" className="text-white/70 hover:text-brand-accent">
-              WhatsApp
+            <a
+              href={whatsappLink()}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="WhatsApp"
+              title="WhatsApp"
+              className="flex h-10 w-10 items-center justify-center rounded-full bg-white/10 text-white/80 transition-colors hover:bg-[#25D366] hover:text-white"
+            >
+              <IconWhatsApp width={18} height={18} />
             </a>
-            <a href={SITE.map.link} target="_blank" rel="noopener noreferrer" className="text-white/70 hover:text-brand-accent">
-              {dict.footer.viewOnMap}
+            <a
+              href={SITE.map.link}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label={dict.footer.viewOnMap}
+              title={dict.footer.viewOnMap}
+              className="flex h-10 w-10 items-center justify-center rounded-full bg-white/10 text-white/80 transition-colors hover:bg-brand-accent hover:text-white"
+            >
+              <IconPin width={18} height={18} />
             </a>
           </div>
         </div>

@@ -34,13 +34,12 @@ export default function LanguageSwitcher({ currentLocale }: { currentLocale: Loc
       <button
         type="button"
         onClick={() => setOpen((v) => !v)}
-        className="inline-flex items-center gap-1.5 rounded-md border border-gray-200 px-2.5 py-1.5 text-sm font-medium text-ink/80 hover:border-brand-secondary hover:text-brand-primary"
+        className="inline-flex items-center gap-1 rounded-md border border-gray-200 px-2 py-1.5 text-base hover:border-brand-secondary"
         aria-label="Change language"
         aria-expanded={open}
       >
-        <span aria-hidden>{localeFlags[currentLocale]}</span>
-        <span className="hidden sm:inline">{localeNames[currentLocale]}</span>
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
+        <span aria-hidden className="leading-none">{localeFlags[currentLocale]}</span>
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" className="text-ink/50">
           <path d="m6 9 6 6 6-6" strokeLinecap="round" strokeLinejoin="round" />
         </svg>
       </button>
