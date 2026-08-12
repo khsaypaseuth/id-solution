@@ -1,4 +1,4 @@
-export const locales = ['en', 'lo', 'th', 'zh'] as const;
+export const locales = ['en', 'lo', 'th', 'zh', 'vi'] as const;
 export type Locale = (typeof locales)[number];
 export const defaultLocale: Locale = 'lo';
 
@@ -7,6 +7,7 @@ export const localeNames: Record<Locale, string> = {
   lo: 'ລາວ',
   th: 'ไทย',
   zh: '中文',
+  vi: 'Tiếng Việt',
 };
 
 export const localeFlags: Record<Locale, string> = {
@@ -14,6 +15,7 @@ export const localeFlags: Record<Locale, string> = {
   lo: '🇱🇦',
   th: '🇹🇭',
   zh: '🇨🇳',
+  vi: '🇻🇳',
 };
 
 export function isLocale(value: string): value is Locale {

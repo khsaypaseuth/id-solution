@@ -6,6 +6,7 @@ import { usePathname } from 'next/navigation';
 import type { Locale } from '@/i18n/config';
 import type { Dictionary } from '@/i18n/dictionaries';
 import LanguageSwitcher from './LanguageSwitcher';
+import { SHOW_TEAM_NAV } from '@/lib/site';
 
 export default function Header({
   locale,
@@ -16,26 +17,31 @@ export default function Header({
 }) {
   const [open, setOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
+  const [scrollProgress, setScrollProgress] = useState(0);
   const pathname = usePathname();
 
   useEffect(() => {
-    const onScroll = () => setScrolled(window.scrollY > 8);
+    const onScroll = () => {
+      setScrolled(window.scrollY > 8);
+      const doc = document.documentElement;
+      const max = doc.scrollHeight - doc.clientHeight;
+      setScrollProgress(max > 0 ? (window.scrollY / max) * 100 : 0);
+    };
     onScroll();
     window.addEventListener('scroll', onScroll, { passive: true });
     return () => window.removeEventListener('scroll', onScroll);
   }, []);
 
-  // Close mobile menu on route change
   useEffect(() => setOpen(false), [pathname]);
 
   const links = [
     { href: `/${locale}`, label: dict.nav.home },
+    { href: `/${locale}/about`, label: dict.nav.about },
     { href: `/${locale}/products`, label: dict.nav.products },
-    { href: `/${locale}/team`, label: dict.nav.team },
+    ...(SHOW_TEAM_NAV ? [{ href: `/${locale}/team`, label: dict.nav.team }] : []),
     { href: `/${locale}/portfolio`, label: dict.nav.portfolio },
     { href: `/${locale}/partners`, label: dict.nav.partners },
     { href: `/${locale}/clients`, label: dict.nav.clients },
-    { href: `/${locale}/contact`, label: dict.nav.contact },
   ];
 
   const isActive = (href: string) =>
@@ -43,50 +49,43 @@ export default function Header({
 
   return (
     <header
-      className={`sticky top-0 z-50 w-full border-b transition-all duration-200 ${
+      className={`sticky top-0 z-50 w-full border-b transition-all duration-300 ${
         scrolled
-          ? 'border-gray-200 bg-white/95 shadow-sm backdrop-blur'
+          ? 'border-gray-200/80 bg-white/95 shadow-sm backdrop-blur-md'
           : 'border-transparent bg-white'
       }`}
     >
       <div className="container-px flex h-16 items-center justify-between gap-4 md:h-20">
-        {/* Logo */}
-        <Link href={`/${locale}`} className="flex items-center" aria-label="ID Solution home">
+        <Link
+          href={`/${locale}`}
+          className="flex items-center transition-opacity duration-300 hover:opacity-80"
+          aria-label="Saypaseuth home"
+        >
           <img
-            src="/logo.png"
-            alt="ID Solution Sole Co., Ltd."
-            className="h-11 w-auto md:h-14"
+            src="/images/logoc.png"
+            alt="Saypaseuth Advance Co., Ltd."
+            className="h-7 w-auto md:h-8"
           />
         </Link>
 
-        {/* Desktop nav */}
         <nav className="hidden items-center gap-1 lg:flex">
           {links.map((l) => (
             <Link
               key={l.href}
               href={l.href}
-              className={`rounded-md px-3 py-2 text-sm font-medium transition-colors ${
-                isActive(l.href)
-                  ? 'text-brand-secondary'
-                  : 'text-ink/80 hover:text-brand-primary'
-              }`}
+              className={`nav-link ${isActive(l.href) ? 'is-active' : ''}`}
             >
               {l.label}
             </Link>
           ))}
         </nav>
 
-        {/* Right actions */}
         <div className="flex items-center gap-2">
           <LanguageSwitcher currentLocale={locale} />
-          <Link href={`/${locale}/contact`} className="btn-primary hidden md:inline-flex !px-4 !py-2">
-            {dict.nav.contact}
-          </Link>
-          {/* Hamburger */}
           <button
             type="button"
             onClick={() => setOpen((v) => !v)}
-            className="inline-flex h-10 w-10 items-center justify-center rounded-md text-brand-primary lg:hidden"
+            className="inline-flex h-10 w-10 items-center justify-center rounded-md text-brand-primary transition-colors hover:bg-brand-primary/5 lg:hidden"
             aria-label="Toggle menu"
             aria-expanded={open}
           >
@@ -101,27 +100,30 @@ export default function Header({
         </div>
       </div>
 
-      {/* Mobile menu */}
-      {open && (
-        <nav className="border-t border-gray-100 bg-white lg:hidden">
-          <div className="container-px flex flex-col py-2">
-            {links.map((l) => (
-              <Link
-                key={l.href}
-                href={l.href}
-                className={`rounded-md px-3 py-3 text-base font-medium ${
-                  isActive(l.href) ? 'text-brand-secondary' : 'text-ink/80'
-                }`}
-              >
-                {l.label}
-              </Link>
-            ))}
-            <Link href={`/${locale}/contact`} className="btn-primary mt-2 w-full">
-              {dict.nav.contact}
+      <nav
+        className={`mobile-nav-panel border-t border-gray-100 bg-white/98 backdrop-blur-md lg:hidden ${open ? 'is-open' : ''}`}
+        aria-hidden={!open}
+      >
+        <div className="container-px flex flex-col py-2">
+          {links.map((l) => (
+            <Link
+              key={l.href}
+              href={l.href}
+              className={`rounded-md px-3 py-3 text-base font-medium transition-colors duration-300 ${
+                isActive(l.href) ? 'bg-brand-primary/5 text-brand-secondary' : 'text-ink/80 hover:bg-gray-50'
+              }`}
+            >
+              {l.label}
             </Link>
-          </div>
-        </nav>
-      )}
+          ))}
+        </div>
+      </nav>
+
+      <div
+        className="scroll-progress"
+        style={{ width: `${scrollProgress}%` }}
+        aria-hidden
+      />
     </header>
   );
 }

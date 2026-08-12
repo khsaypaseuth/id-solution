@@ -1,18 +1,19 @@
 {
-  "name": "id-solution-web",
+  "name": "saypaseuth-advance-web",
   "version": "1.0.0",
   "private": true,
-  "description": "Corporate website for ID Solution Sole Co., Ltd.",
+  "description": "Corporate website for Saypaseuth Advance Co., Ltd.",
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev --hostname 0.0.0.0 --port ${PORT:-3000}",
     "build": "next build",
-    "start": "next start",
+    "start": "serve out -l tcp://0.0.0.0:${PORT:-3000}",
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "15.1.6",
+    "next": "^15.2.4",
     "react": "19.0.0",
-    "react-dom": "19.0.0"
+    "react-dom": "19.0.0",
+    "serve": "^14.2.4"
   },
   "devDependencies": {
     "@types/node": "22.10.7",

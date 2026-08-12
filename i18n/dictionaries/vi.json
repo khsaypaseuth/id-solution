@@ -1,0 +1,572 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "products": "Sản phẩm & Dịch vụ",
+    "team": "Đội ngũ",
+    "portfolio": "Dự án",
+    "partners": "Đối tác",
+    "clients": "Khách hàng",
+    "contact": "Liên hệ",
+    "requestQuote": "Yêu cầu báo giá",
+    "about": "About",
+    "faq": "FAQ"
+  },
+  "common": {
+    "requestQuotation": "Yêu cầu báo giá",
+    "requestFreeQuotation": "Yêu cầu báo giá miễn phí",
+    "contactUs": "Liên hệ",
+    "whatsapp": "WhatsApp",
+    "learnMore": "Tìm hiểu thêm",
+    "viewAll": "Xem tất cả",
+    "send": "Gửi",
+    "loading": "Đang tải…",
+    "brandEyebrow": "Saypaseuth Advance"
+  },
+  "home": {
+    "hero": {
+      "headline": "Giải pháp Công nghệ, Bảo vệ Điện & Khảo sát Bay tại Lào",
+      "subheadline": "Cung cấp hạ tầng CNTT, bảo vệ điện áp cao, hệ thống năng lượng mặt trời, hệ thống drone kiểm tra chuyên nghiệp, giải pháp an ninh và dịch vụ kỹ thuật đáng tin cậy."
+    },
+    "intro": {
+      "title": "Đối tác Công nghệ Đáng tin cậy",
+      "body": "Saypaseuth Advance Co., Ltd. là nhà phân phối hàng đầu về thiết bị CNTT, hạ tầng doanh nghiệp, bảo vệ điện áp cao, hệ thống năng lượng mặt trời, hệ thống drone kiểm tra và giải pháp an ninh tại Lào. Chúng tôi cung cấp, lắp đặt, bảo trì và hỗ trợ kỹ thuật cho các tổ chức trên toàn quốc — với đội ngũ kỹ sư được chứng nhận và các đối tác công nghệ uy tín.",
+      "experience": "Nhiều năm kinh nghiệm phục vụ khách hàng thuộc chính phủ, điện lực, ngân hàng, doanh nghiệp và SME.",
+      "commitment": "Chúng tôi cam kết mang đến giải pháp đáng tin cậy, tư vấn trung thực và hỗ trợ sau bán hàng tận tâm."
+    },
+    "why": {
+      "title": "Vì sao chọn chúng tôi",
+      "subtitle": "Điều khiến Saypaseuth trở thành lựa chọn đáng tin cậy của các tổ chức tại Lào.",
+      "items": {
+        "professionalTeam": {
+          "title": "Đội ngũ Chuyên nghiệp",
+          "body": "Kỹ sư CNTT được chứng nhận và giàu kinh nghiệm."
+        },
+        "enterpriseExpertise": {
+          "title": "Chuyên môn Doanh nghiệp",
+          "body": "Giải pháp máy chủ, mạng và an ninh."
+        },
+        "trustedBrands": {
+          "title": "Thương hiệu Uy tín",
+          "body": "Sản phẩm chính hãng từ các nhà cung cấp hàng đầu."
+        },
+        "afterSales": {
+          "title": "Hỗ trợ Sau bán hàng",
+          "body": "Bảo trì và hỗ trợ kỹ thuật đáng tin cậy."
+        },
+        "pricing": {
+          "title": "Giá cả Cạnh tranh",
+          "body": "Giải pháp phù hợp ngân sách và dễ mở rộng."
+        },
+        "nationwide": {
+          "title": "Phục vụ Toàn quốc",
+          "body": "Triển khai dự án trên khắp Lào."
+        }
+      }
+    },
+    "industries": {
+      "title": "Ngành nghề Phục vụ",
+      "subtitle": "Giải pháp công nghệ phù hợp cho mọi lĩnh vực.",
+      "items": {
+        "government": "Chính phủ",
+        "education": "Giáo dục",
+        "banking": "Ngân hàng",
+        "logistics": "Logistics",
+        "manufacturing": "Sản xuất",
+        "retail": "Bán lẻ",
+        "hospitality": "Khách sạn & Du lịch",
+        "smes": "SME",
+        "energy": "Năng lượng & Điện lực"
+      }
+    },
+    "productsPreview": {
+      "title": "Products & Services",
+      "subtitle": "From enterprise IT and power protection to solar, security, and aerial survey — full supply, installation, and support.",
+      "items": {
+        "enterprise": "Enterprise IT & Data Center",
+        "electrical": "Electrical Protection",
+        "solar": "Solar Power",
+        "security": "CCTV & Access Control",
+        "drone": "Drone Inspection",
+        "services": "Installation & Support"
+      }
+    },
+    "portfolio": {
+      "title": "Recent Projects",
+      "subtitle": "Real installations and site work across Lao PDR and the region."
+    },
+    "clients": {
+      "title": "Trusted By Leading Organizations",
+      "subtitle": "Government, banking, utilities, and enterprise clients across Lao PDR."
+    }
+  },
+  "products": {
+    "title": "Sản phẩm & Dịch vụ",
+    "subtitle": "Đầy đủ thiết bị CNTT, hạ tầng doanh nghiệp, bảo vệ điện, hệ thống năng lượng mặt trời, khảo sát bay và an ninh — kèm cung cấp, lắp đặt, bảo trì và hỗ trợ.",
+    "consumer": {
+      "title": "Thiết bị CNTT Văn phòng",
+      "items": {
+        "desktops": "Máy tính để bàn",
+        "laptops": "Máy tính xách tay",
+        "printers": "Máy in",
+        "monitors": "Màn hình",
+        "routers": "Bộ định tuyến",
+        "accessPoints": "Access Point",
+        "switches": "Switch mạng",
+        "accessories": "Phụ kiện văn phòng"
+      }
+    },
+    "enterprise": {
+      "title": "Giải pháp Doanh nghiệp",
+      "items": {
+        "servers": "Máy chủ",
+        "firewalls": "Tường lửa",
+        "ups": "Hệ thống UPS",
+        "enterpriseSwitches": "Switch doanh nghiệp",
+        "cabling": "Cáp cấu trúc",
+        "datacenter": "Thiết bị Trung tâm dữ liệu",
+        "networkInfra": "Hạ tầng Mạng",
+        "backup": "Giải pháp Sao lưu"
+      }
+    },
+    "electricalProtection": {
+      "title": "Bảo vệ Điện áp cao",
+      "items": {
+        "surgeArresters": "Chống sét polyme",
+        "transmissionProtection": "Bảo vệ đường dây truyền tải",
+        "lightningProtection": "Chống sét & xung điện",
+        "substationEquipment": "Thiết bị bảo vệ trạm biến áp",
+        "hvSupply": "Cung cấp thiết bị HV",
+        "hvSupport": "Lắp đặt & vận hành thử nghiệm"
+      }
+    },
+    "solarPower": {
+      "title": "Năng lượng Mặt trời & Lắp đặt",
+      "items": {
+        "solarPanels": "Tấm pin năng lượng mặt trời (PV)",
+        "inverters": "Biến tần & hệ thống hybrid",
+        "mounting": "Khung giá & giá đỡ",
+        "batteries": "Hệ thống lưu trữ pin",
+        "commercialInstall": "Lắp đặt thương mại & công nghiệp",
+        "residentialInstall": "Lắp đặt nhà ở & mái nhà",
+        "gridTie": "Giải pháp hòa lưới & độc lập",
+        "maintenance": "Bảo trì & giám sát hệ thống"
+      }
+    },
+    "droneSurvey": {
+      "title": "Hệ thống Drone Kiểm tra & Khảo sát",
+      "items": {
+        "enterpriseDrones": "Drone kiểm tra doanh nghiệp",
+        "thermalImaging": "Camera nhiệt",
+        "lidarSurvey": "LiDAR & khảo sát",
+        "gnssStations": "Trạm tham chiếu GNSS",
+        "flightAccessories": "Pin, bộ điều khiển & phụ kiện",
+        "portablePower": "Trạm nguồn di động",
+        "fieldMeters": "Đo nhiệt độ & luồng khí",
+        "permitsSupport": "Hỗ trợ giấy phép bay drone",
+        "fieldComputing": "Máy trạm hiện trường",
+        "dataStorage": "Lưu trữ dữ liệu dung lượng lớn"
+      }
+    },
+    "cctv": {
+      "title": "Hệ thống CCTV",
+      "items": {
+        "supply": "Cung cấp CCTV",
+        "installation": "Lắp đặt CCTV",
+        "maintenance": "Bảo trì CCTV",
+        "surveillance": "Giải pháp giám sát video"
+      }
+    },
+    "accessControl": {
+      "title": "Hệ thống Kiểm soát Ra vào",
+      "items": {
+        "fingerprint": "Vân tay",
+        "face": "Nhận diện khuôn mặt",
+        "card": "Thẻ ra vào",
+        "attendance": "Chấm công"
+      }
+    },
+    "gateBarrier": {
+      "title": "Hệ thống Barrier Cổng",
+      "items": {
+        "vehicle": "Kiểm soát xe ra vào",
+        "parking": "Hệ thống bãi đỗ xe",
+        "automatic": "Barrier tự động"
+      }
+    },
+    "eyebrow": "Năng lực",
+    "heroTitle": "Sản phẩm & Dịch vụ",
+    "categoriesLabel": "Khám phá danh mục",
+    "services": {
+      "title": "Triển khai Trọn gói",
+      "subtitle": "Mọi danh mục đều được hỗ trợ bởi cam kết dịch vụ toàn diện.",
+      "items": {
+        "supply": {
+          "title": "Cung cấp",
+          "body": "Tìm nguồn và giao thiết bị được chứng nhận."
+        },
+        "installation": {
+          "title": "Lắp đặt",
+          "body": "Triển khai và vận hành thử bởi kỹ sư của chúng tôi."
+        },
+        "maintenance": {
+          "title": "Bảo trì",
+          "body": "Bảo dưỡng định kỳ giữ hệ thống ổn định."
+        },
+        "support": {
+          "title": "Hỗ trợ Kỹ thuật",
+          "body": "Hỗ trợ nhanh chóng khi bạn cần."
+        }
+      }
+    }
+  },
+  "team": {
+    "title": "Đội ngũ",
+    "subtitle": "Gặp gỡ các chuyên gia được chứng nhận của Saypaseuth.",
+    "chart": {
+      "title": "Sơ đồ Tổ chức",
+      "sales": "Kinh doanh",
+      "technical": "Kỹ thuật",
+      "admin": "Hành chính"
+    },
+    "roles": {
+      "managingDirector": {
+        "name": "Giám đốc Điều hành",
+        "position": "Giám đốc Điều hành",
+        "bio": "Dẫn dắt chiến lược và phát triển Saypaseuth với nhiều năm kinh nghiệm trong ngành CNTT."
+      },
+      "salesExecutive1": {
+        "name": "Chuyên viên Kinh doanh",
+        "position": "Chuyên viên Kinh doanh",
+        "bio": "Hỗ trợ khách hàng tìm giải pháp công nghệ phù hợp."
+      },
+      "salesExecutive2": {
+        "name": "Chuyên viên Kinh doanh",
+        "position": "Chuyên viên Kinh doanh",
+        "bio": "Xây dựng quan hệ khách hàng lâu dài và đề xuất phù hợp."
+      },
+      "itEngineer1": {
+        "name": "Kỹ sư CNTT",
+        "position": "Kỹ sư CNTT",
+        "bio": "Chuyên gia triển khai máy chủ, mạng và hạ tầng doanh nghiệp."
+      },
+      "itEngineer2": {
+        "name": "Kỹ sư CNTT",
+        "position": "Kỹ sư CNTT",
+        "bio": "Chuyên gia lắp đặt CCTV, kiểm soát ra vào và an ninh."
+      },
+      "itEngineer3": {
+        "name": "Kỹ sư CNTT",
+        "position": "Kỹ sư CNTT",
+        "bio": "Tập trung bảo trì, hỗ trợ kỹ thuật và thành công khách hàng."
+      },
+      "adminAccountant": {
+        "name": "Hành chính & Kế toán",
+        "position": "Hành chính & Kế toán",
+        "bio": "Đảm bảo vận hành trơn tru và quản lý tài khoản khách hàng."
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Dự án",
+    "subtitle": "Hình ảnh thực tế từ các dự án CNTT, bảo vệ điện, lắp đặt năng lượng mặt trời và khảo sát bay — bao gồm bối cảnh khu vực Trung Quốc, Thái Lan và Việt Nam.",
+    "categories": {
+      "itEquipmentSupply": "Cung cấp Thiết bị CNTT",
+      "serverInstallation": "Lắp đặt Máy chủ",
+      "networkInfrastructure": "Hạ tầng Mạng",
+      "cctvInstallation": "Lắp đặt CCTV",
+      "accessControlProjects": "Dự án Kiểm soát Ra vào",
+      "enterpriseSolutions": "Giải pháp Doanh nghiệp",
+      "electricalProtection": "Bảo vệ Điện",
+      "solarInstallation": "Lắp đặt Năng lượng Mặt trời",
+      "droneSurvey": "Drone Kiểm tra & Khảo sát"
+    },
+    "all": "Tất cả",
+    "regions": {
+      "china": "Trung Quốc",
+      "thailand": "Thái Lan",
+      "vietnam": "Việt Nam"
+    },
+    "titles": {
+      "3": "Enterprise Server Room Installation",
+      "7": "CCTV Surveillance Deployment",
+      "13": "High-Voltage Protection Equipment",
+      "38": "Enterprise Network Infrastructure",
+      "46": "Data Center Server Deployment",
+      "53": "Solar Farm Installation",
+      "54": "Solar PV Array Supply",
+      "56": "Rooftop Solar Installation"
+    }
+  },
+  "partners": {
+    "title": "Đối tác Công nghệ",
+    "subtitle": "Hợp tác với các thương hiệu công nghệ hàng đầu thế giới.",
+    "categories": {
+      "enterpriseInfrastructure": "Hạ tầng Doanh nghiệp",
+      "endUserComputing": "Thiết bị Người dùng",
+      "security": "An ninh",
+      "printing": "In ấn",
+      "cctv": "CCTV",
+      "accessControl": "Kiểm soát Ra vào",
+      "upsPower": "UPS & Nguồn điện",
+      "softwareCloud": "Phần mềm & Cloud"
+    }
+  },
+  "clients": {
+    "title": "Khách hàng",
+    "subtitle": "Được tin tưởng bởi các tổ chức trên khắp Lào.",
+    "sectionEyebrow": "Đối tác Uy tín",
+    "sectionTitle": "Đồng hành cùng các Tổ chức tại Lào",
+    "sectionSubtitle": "Bộ ngành, tổ chức quốc tế, ngân hàng hàng đầu và doanh nghiệp lớn chọn Saypaseuth cho hạ tầng CNTT, hệ thống an ninh và hỗ trợ kỹ thuật đáng tin cậy.",
+    "empty": "Danh sách khách hàng sẽ sớm cập nhật.",
+    "summaries": {
+      "lsx": "HP servers, storage & Cisco networking",
+      "ntpc": "Dell EqualLogic & PowerEdge servers",
+      "rhb": "Lenovo System X & IBM tape library",
+      "bfl": "HP ProLiant servers",
+      "anz": "HP ProLiant servers"
+    }
+  },
+  "contact": {
+    "title": "Liên hệ",
+    "subtitle": "Liên hệ để được tư vấn, báo giá và hỗ trợ kỹ thuật.",
+    "infoTitle": "Thông tin Liên hệ",
+    "address": "Địa chỉ",
+    "phone": "Điện thoại",
+    "email": "Email",
+    "facebook": "Facebook",
+    "whatsapp": "WhatsApp",
+    "mapTitle": "Vị trí",
+    "form": {
+      "title": "Gửi tin nhắn",
+      "fullName": "Họ và tên",
+      "company": "Công ty",
+      "phone": "Số điện thoại",
+      "email": "Email",
+      "subject": "Tiêu đề",
+      "message": "Nội dung",
+      "submit": "Gửi yêu cầu",
+      "requestQuote": "Yêu cầu báo giá",
+      "success": "Cảm ơn bạn! Tin nhắn đã được gửi. Chúng tôi sẽ liên hệ sớm.",
+      "error": "Đã xảy ra lỗi. Vui lòng thử lại hoặc liên hệ trực tiếp.",
+      "sending": "Đang gửi…",
+      "required": "Trường này là bắt buộc"
+    },
+    "hours": "Business Hours",
+    "hoursValue": "Monday – Friday, 8:00 AM – 5:00 PM"
+  },
+  "quote": {
+    "title": "Yêu cầu Báo giá",
+    "subtitle": "Cho chúng tôi biết nhu cầu của bạn — chúng tôi sẽ chuẩn bị báo giá miễn phí, không ràng buộc.",
+    "highlights": [
+      {
+        "title": "Miễn phí & Không ràng buộc",
+        "body": "Nhận báo giá chi tiết miễn phí — không yêu cầu cam kết."
+      },
+      {
+        "title": "Phản hồi Nhanh",
+        "body": "Đội ngũ phản hồi trong 1–2 ngày làm việc với tư vấn phù hợp."
+      },
+      {
+        "title": "Chuyên môn Được chứng nhận",
+        "body": "Giải pháp từ kỹ sư được chứng nhận và đối tác công nghệ toàn cầu."
+      },
+      {
+        "title": "Dịch vụ Trọn gói",
+        "body": "Cung cấp, lắp đặt, bảo trì và hỗ trợ kỹ thuật toàn quốc."
+      }
+    ],
+    "trustLine": "Được tin tưởng bởi cơ quan chính phủ, tổ chức quốc tế, ngân hàng và doanh nghiệp trên khắp Lào.",
+    "form": {
+      "name": "Họ tên",
+      "company": "Công ty",
+      "phone": "Điện thoại",
+      "email": "Email",
+      "product": "Sản phẩm / Dịch vụ cần",
+      "description": "Mô tả dự án",
+      "submit": "Yêu cầu báo giá miễn phí",
+      "success": "Cảm ơn bạn! Yêu cầu báo giá đã được tiếp nhận. Chúng tôi sẽ liên hệ sớm.",
+      "error": "Đã xảy ra lỗi. Vui lòng thử lại hoặc liên hệ trực tiếp.",
+      "sending": "Đang gửi…",
+      "category": "Category",
+      "categoryPlaceholder": "Select a category",
+      "subjectQuote": "New Quotation Request — Saypaseuth Advance",
+      "subjectContact": "New Inquiry — Saypaseuth Advance",
+      "categories": {
+        "it": "IT Equipment & Enterprise",
+        "electrical": "Electrical Protection",
+        "solar": "Solar Power",
+        "drone": "Drone Inspection",
+        "cctv": "CCTV & Security",
+        "access": "Access Control",
+        "other": "Other / Multiple"
+      }
+    }
+  },
+  "footer": {
+    "description": "Nhà phân phối thiết bị CNTT, hạ tầng doanh nghiệp, bảo vệ điện áp cao, hệ thống drone, CCTV, kiểm soát ra vào và barrier cổng tại Lào — bao gồm cung cấp, lắp đặt, bảo trì và hỗ trợ kỹ thuật.",
+    "quickLinks": "Liên kết",
+    "products": "Sản phẩm & Dịch vụ",
+    "contactTitle": "Liên hệ",
+    "viewOnMap": "Xem trên Google Maps",
+    "rights": "Bảo lưu mọi quyền.",
+    "privacy": "Privacy Policy",
+    "faq": "FAQ"
+  },
+  "meta": {
+    "title": "Saypaseuth Advance Co., Ltd. | CNTT, Bảo vệ Điện & Drone tại Lào",
+    "description": "Nhà phân phối thiết bị CNTT, bảo vệ điện áp cao, hệ thống năng lượng mặt trời, drone kiểm tra, hạ tầng doanh nghiệp, CCTV và dịch vụ kỹ thuật tại Lào.",
+    "pages": {
+      "home": {
+        "title": "Saypaseuth Advance | IT, Solar & Power Solutions in Laos",
+        "description": "Trusted technology partner in Lao PDR — IT infrastructure, solar power, electrical protection, drone survey, and security solutions with nationwide support."
+      },
+      "about": {
+        "title": "About Us | Saypaseuth Advance",
+        "description": "Learn about Saypaseuth Advance — your trusted IT, solar, power protection, and security partner serving organizations across Lao PDR."
+      },
+      "products": {
+        "title": "Products & Services | Saypaseuth Advance",
+        "description": "Enterprise IT, solar power, electrical protection, drone inspection, CCTV, access control, and end-to-end installation services in Lao PDR."
+      },
+      "portfolio": {
+        "title": "Portfolio | Saypaseuth Advance",
+        "description": "Project photography from real IT, solar, electrical, and security installations across Lao PDR and the region."
+      },
+      "partners": {
+        "title": "Technology Partners | Saypaseuth Advance",
+        "description": "Authorized partnerships with Dell, HPE, Cisco, Fortinet, Hikvision, and 40+ leading technology brands."
+      },
+      "clients": {
+        "title": "Our Clients | Saypaseuth Advance",
+        "description": "Trusted by government, banking, utilities, and enterprise organizations across Lao PDR."
+      },
+      "team": {
+        "title": "Our Team | Saypaseuth Advance",
+        "description": "Meet the certified professionals behind Saypaseuth Advance."
+      },
+      "contact": {
+        "title": "Contact Us | Saypaseuth Advance",
+        "description": "Get in touch for inquiries, free quotations, and technical support. Vientiane Capital, Lao PDR."
+      },
+      "faq": {
+        "title": "FAQ | Saypaseuth Advance",
+        "description": "Frequently asked questions about our products, services, quotations, and technical support."
+      },
+      "privacy": {
+        "title": "Privacy Policy | Saypaseuth Advance",
+        "description": "How Saypaseuth Advance collects, uses, and protects your personal information."
+      }
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Your trusted technology, power, and security partner in Lao PDR since day one.",
+    "mission": {
+      "title": "Our Mission",
+      "body": "To deliver reliable IT infrastructure, electrical protection, solar power, and security solutions — with honest advice, certified expertise, and dependable after-sales support for every client we serve."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "body": "To be the most trusted technology and power solutions distributor in Lao PDR, empowering organizations to operate safely, efficiently, and sustainably."
+    },
+    "values": {
+      "title": "What We Stand For",
+      "items": {
+        "integrity": {
+          "title": "Integrity",
+          "body": "Honest recommendations and transparent pricing on every project."
+        },
+        "quality": {
+          "title": "Quality",
+          "body": "Certified products from leading global brands, installed to professional standards."
+        },
+        "service": {
+          "title": "Service",
+          "body": "Responsive support from quotation through installation and long-term maintenance."
+        },
+        "partnership": {
+          "title": "Partnership",
+          "body": "Long-term relationships built on trust with government, enterprise, and SME clients."
+        }
+      }
+    },
+    "stats": {
+      "title": "At a Glance",
+      "items": {
+        "experience": {
+          "value": "15+",
+          "label": "Years of Experience"
+        },
+        "clients": {
+          "value": "100+",
+          "label": "Clients Served"
+        },
+        "brands": {
+          "value": "40+",
+          "label": "Technology Partners"
+        },
+        "support": {
+          "value": "Nationwide",
+          "label": "Service Coverage"
+        }
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Common questions about our products, services, and quotation process.",
+    "items": [
+      {
+        "q": "How do I request a quotation?",
+        "a": "Use the quotation form on our Contact page or the home page. Tell us what you need and our team will respond within 1–2 business days with a free, no-obligation quote."
+      },
+      {
+        "q": "Do you provide installation and maintenance?",
+        "a": "Yes. We offer end-to-end service — supply, installation, commissioning, scheduled maintenance, and technical support for all product categories."
+      },
+      {
+        "q": "Which areas do you serve?",
+        "a": "We serve clients throughout Lao PDR. For regional projects, we have experience working in China, Thailand, and Vietnam as well."
+      },
+      {
+        "q": "What brands and products do you supply?",
+        "a": "We partner with leading brands including Dell, HPE, Cisco, Fortinet, Hikvision, APC, and many more — covering IT, security, UPS, solar, and electrical protection."
+      },
+      {
+        "q": "Do you supply solar power systems?",
+        "a": "Yes. We supply solar PV panels, inverters, battery storage, and provide commercial, industrial, and residential installation with ongoing maintenance."
+      },
+      {
+        "q": "How can I get technical support?",
+        "a": "Contact us by phone, email, WhatsApp, or the contact form. Our certified engineers provide responsive assistance for troubleshooting, maintenance, and warranty support."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "subtitle": "How we collect, use, and protect your information.",
+    "updated": "Last updated: August 2026",
+    "sections": [
+      {
+        "title": "Information We Collect",
+        "body": "When you submit a contact or quotation form, we collect the information you provide — such as your name, company, phone number, email address, and message content. We may also collect basic usage data when you visit our website."
+      },
+      {
+        "title": "How We Use Your Information",
+        "body": "We use your information solely to respond to inquiries, prepare quotations, deliver services, and communicate about your projects. We do not sell or share your personal data with third parties for marketing purposes."
+      },
+      {
+        "title": "Data Storage & Security",
+        "body": "Form submissions are processed securely through our email service provider. We take reasonable measures to protect your information from unauthorized access, alteration, or disclosure."
+      },
+      {
+        "title": "Your Rights",
+        "body": "You may request access to, correction of, or deletion of your personal data by contacting us at info@saypaseuth.com."
+      },
+      {
+        "title": "Contact",
+        "body": "For privacy-related questions, contact Saypaseuth Advance Co., Ltd. at info@saypaseuth.com or 020 59916868."
+      }
+    ]
+  }
+}

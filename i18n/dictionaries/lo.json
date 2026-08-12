@@ -7,7 +7,9 @@
     "partners": "ຄູ່ຮ່ວມງານ",
     "clients": "ລູກຄ້າ",
     "contact": "ຕິດຕໍ່ພວກເຮົາ",
-    "requestQuote": "ຂໍໃບສະເໜີລາຄາ"
+    "requestQuote": "ຂໍໃບສະເໜີລາຄາ",
+    "about": "About",
+    "faq": "FAQ"
   },
   "common": {
     "requestQuotation": "ຂໍໃບສະເໜີລາຄາ",
@@ -17,22 +19,23 @@
     "learnMore": "ສຶກສາເພີ່ມເຕີມ",
     "viewAll": "ເບິ່ງທັງໝົດ",
     "send": "ສົ່ງ",
-    "loading": "ກຳລັງໂຫຼດ…"
+    "loading": "ກຳລັງໂຫຼດ…",
+    "brandEyebrow": "Saypaseuth Advance"
   },
   "home": {
     "hero": {
-      "headline": "ໂຊລູຊັນອຸປະກອນໄອທີ ແລະ ເຕັກໂນໂລຊີລະດັບອົງກອນທີ່ໜ້າເຊື່ອຖືໃນ ສປປ ລາວ",
-      "subheadline": "ໃຫ້ບໍລິການໂຄງສ້າງພື້ນຖານໄອທີ, ລະບົບຄວາມປອດໄພ, ໂຊລູຊັນເຄືອຂ່າຍ ແລະ ບໍລິການດ້ານເຕັກນິກແບບມືອາຊີບທີ່ໜ້າເຊື່ອຖື."
+      "headline": "ໂຊລູຊັນເຕັກໂນໂລຊີ, ປ້ອງກັນໄຟຟ້າ ແລະ ສຳຫຼວດດ້ວຍໂດຣນທີ່ໜ້າເຊື່ອຖືໃນ ສປປ ລາວ",
+      "subheadline": "ສະໜອງໂຄງສ້າງພື້ນຖານໄອທີ, ລະບົບປ້ອງກັນແຮງດັນສູງ, ລະບົບພະລັງແສງອາທິດ, ລະບົບໂດຣນກວດກາ, ຄວາມປອດໄພ ແລະ ບໍລິການດ້ານເຕັກນິກ."
     },
     "intro": {
       "title": "ຄູ່ຮ່ວມງານດ້ານເຕັກໂນໂລຊີທີ່ທ່ານໄວ້ວາງໃຈໄດ້",
-      "body": "ID Solution Sole Co., Ltd. ເປັນຜູ້ຈັດຈຳໜ່າຍຊັ້ນນຳດ້ານອຸປະກອນໄອທີ, ໂຄງສ້າງພື້ນຖານລະດັບອົງກອນ ແລະ ລະບົບຄວາມປອດໄພໃນ ສປປ ລາວ. ພວກເຮົາໃຫ້ບໍລິການຈັດສະໜອງ, ຕິດຕັ້ງ, ບຳລຸງຮັກສາ ແລະ ສະໜັບສະໜູນດ້ານເຕັກນິກສຳລັບອົງກອນຕ່າງໆທົ່ວປະເທດ — ໂດຍວິສະວະກອນທີ່ໄດ້ຮັບໃບຢັ້ງຢືນ ແລະ ການເປັນຄູ່ຮ່ວມງານທາງການກັບແບຣນເຕັກໂນໂລຊີຊັ້ນນຳຂອງໂລກ.",
-      "experience": "ປະສົບການຫຼາຍປີໃນການໃຫ້ບໍລິການແກ່ລູກຄ້າພາກລັດ, ທະນາຄານ, ອົງກອນ ແລະ ວິສາຫະກິດຂະໜາດນ້ອຍ ແລະ ກາງ.",
+      "body": "Saypaseuth Advance Co., Ltd. ເປັນຜູ້ຈັດຈຳໜ່າຍຊັ້ນນຳດ້ານອຸປະກອນໄອທີ, ໂຄງສ້າງພື້ນຖານລະດັບອົງກອນ, ລະບົບປ້ອງກັນໄຟຟ້າແຮງດັນສູງ, ລະບົບພະລັງແສງອາທິດ, ລະບົບໂດຣນກວດກາ ແລະ ຄວາມປອດໄພໃນ ສປປ ລາວ. ພວກເຮົາໃຫ້ບໍລິການຈັດສະໜອງ, ຕິດຕັ້ງ, ບຳລຸງຮັກສາ ແລະ ສະໜັບສະໜູນດ້ານເຕັກນິກສຳລັບອົງກອນຕ່າງໆທົ່ວປະເທດ — ໂດຍວິສະວະກອນທີ່ໄດ້ຮັບໃບຢັ້ງຢືນ ແລະ ຄູ່ຮ່ວມງານເຕັກໂນໂລຊີທີ່ໜ້າເຊື່ອຖື.",
+      "experience": "ປະສົບການຫຼາຍປີໃນການບໍລິການລູກຄ້າລັດ, ພະລັງງານ, ທະນາຄານ, ອົງກອນ ແລະ SME.",
       "commitment": "ພວກເຮົາມຸ່ງໝັ້ນໃນການໃຫ້ໂຊລູຊັນທີ່ໜ້າເຊື່ອຖື, ຄຳແນະນຳທີ່ຊື່ສັດ ແລະ ການສະໜັບສະໜູນຫຼັງການຂາຍທີ່ໄວ້ໃຈໄດ້."
     },
     "why": {
       "title": "ເຫດຜົນທີ່ຄວນເລືອກພວກເຮົາ",
-      "subtitle": "ສິ່ງທີ່ເຮັດໃຫ້ ID Solution ເປັນທາງເລືອກທີ່ໄວ້ວາງໃຈໄດ້ສຳລັບອົງກອນຕ່າງໆທົ່ວ ສປປ ລາວ.",
+      "subtitle": "ສິ່ງທີ່ເຮັດໃຫ້ Saypaseuth ເປັນທາງເລືອກທີ່ໄວ້ວາງໃຈໄດ້ສຳລັບອົງກອນຕ່າງໆທົ່ວ ສປປ ລາວ.",
       "items": {
         "professionalTeam": {
           "title": "ທີມງານມືອາຊີບ",
@@ -71,13 +74,34 @@
         "manufacturing": "ການຜະລິດ",
         "retail": "ການຄ້າປີກ",
         "hospitality": "ການໂຮງແຮມ ແລະ ການບໍລິການ",
-        "smes": "ວິສາຫະກິດຂະໜາດນ້ອຍ ແລະ ກາງ"
+        "smes": "ວິສາຫະກິດຂະໜາດນ້ອຍ ແລະ ກາງ",
+        "energy": "ພະລັງງານ ແລະ ສາທາລະນູປະໂພກ"
       }
+    },
+    "productsPreview": {
+      "title": "Products & Services",
+      "subtitle": "From enterprise IT and power protection to solar, security, and aerial survey — full supply, installation, and support.",
+      "items": {
+        "enterprise": "Enterprise IT & Data Center",
+        "electrical": "Electrical Protection",
+        "solar": "Solar Power",
+        "security": "CCTV & Access Control",
+        "drone": "Drone Inspection",
+        "services": "Installation & Support"
+      }
+    },
+    "portfolio": {
+      "title": "Recent Projects",
+      "subtitle": "Real installations and site work across Lao PDR and the region."
+    },
+    "clients": {
+      "title": "Trusted By Leading Organizations",
+      "subtitle": "Government, banking, utilities, and enterprise clients across Lao PDR."
     }
   },
   "products": {
     "title": "ຜະລິດຕະພັນ ແລະ ບໍລິການ",
-    "subtitle": "ຄົບຄຸມຜະລິດຕະພັນອຸປະກອນໄອທີ, ໂຄງສ້າງພື້ນຖານລະດັບອົງກອນ ແລະ ໂຊລູຊັນຄວາມປອດໄພ — ພ້ອມການຈັດສະໜອງ, ຕິດຕັ້ງ, ບຳລຸງຮັກສາ ແລະ ສະໜັບສະໜູນ.",
+    "subtitle": "ຄົບຄຸມອຸປະກອນໄອທີ, ໂຄງສ້າງພື້ນຖານລະດັບອົງກອນ, ລະບົບປ້ອງກັນໄຟຟ້າ, ລະບົບພະລັງແສງອາທິດ, ລະບົບໂດຣນກວດກາ ແລະ ຄວາມປອດໄພ — ພ້ອມຈັດສະໜອງ, ຕິດຕັ້ງ, ບຳລຸງຮັກສາ ແລະ ສະໜັບສະໜູນ.",
     "consumer": {
       "title": "ອຸປະກອນໄອທີສຳລັບຜູ້ບໍລິໂພກ",
       "items": {
@@ -129,34 +153,149 @@
         "parking": "ລະບົບບ່ອນຈອດລົດ",
         "automatic": "ໄມ້ກັ້ນປະຕູອັດຕະໂນມັດ"
       }
+    },
+    "electricalProtection": {
+      "title": "ອຸປະກອນປ້ອງກັນໄຟຟ້າແຮງດັນສູງ",
+      "items": {
+        "surgeArresters": "ເຄື່ອງປ້ອງກັນແຮງດັນເກີນແບບໂພລີເມີ",
+        "transmissionProtection": "ການປ້ອງກັນສາຍສົ່ງໄຟຟ້າ",
+        "lightningProtection": "ປ້ອງກັນຟ້າຜ່າ ແລະ ແຮງດັນເກີນ",
+        "substationEquipment": "ອຸປະກອນປ້ອງກັນສະຖານີໄຟຟ້າ",
+        "hvSupply": "ການຈັດສະໜອງອຸປະກອນແຮງດັນສູງ",
+        "hvSupport": "ສະໜັບສະໜູນການຕິດຕັ້ງ ແລະ ທົດສອບລະບົບ"
+      }
+    },
+    "solarPower": {
+      "title": "ພະລັງແສງອາທິດ ແລະ ການຕິດຕັ້ງ",
+      "items": {
+        "solarPanels": "ແຜງພະລັງແສງອາທິດ (Solar PV)",
+        "inverters": "ອິນເວີເຕີ ແລະ ລະບົບໄຮບຣິດ",
+        "mounting": "ໂຄງສ້າງຍຶດ ແລະ ລາກແຜງ",
+        "batteries": "ລະບົບເກັບພະລັງແບັດເຕີຣີ",
+        "commercialInstall": "ຕິດຕັ້ງພາກທຸລະກິດ ແລະ ອຸດສາຫະກຳ",
+        "residentialInstall": "ຕິດຕັ້ງບ້ານ ແລະ ຫຼັງຄາ",
+        "gridTie": "ລະບົບເຊື່ອມກັບເຄືອຂ່າຍ ແລະ ນອກເຄືອຂ່າຍ",
+        "maintenance": "ບຳລຸງຮັກສາ ແລະ ຕິດຕາມລະບົບ"
+      }
+    },
+    "droneSurvey": {
+      "title": "ລະບົບໂດຣນກວດກາ ແລະ ສຳຫຼວດ",
+      "items": {
+        "enterpriseDrones": "ໂດຣນກວດກາລະດັບອົງກອນ",
+        "thermalImaging": "ກ້ອງຖ່າຍພາບຄວາມຮ້ອນ",
+        "lidarSurvey": "ລະບົບ LiDAR ແລະ ສຳຫຼວດ",
+        "gnssStations": "ສະຖານີອ້າງອີງ GNSS",
+        "flightAccessories": "ແບັດເຕີຣີ, ຣີໂມດ ແລະ ອຸປະກອນເສີມ",
+        "portablePower": "ສະຖານີໄຟຟ້າພົກພາ",
+        "fieldMeters": "ເຄື່ອງວັດອຸນຫະພູມ ແລະ ກະແສລົມ",
+        "permitsSupport": "ສະໜັບສະໜູນໃບອະນຸຍາດບິນໂດຣນ",
+        "fieldComputing": "ຄອມພິວເຕີສຳລັບງານພາກສະໜາມ",
+        "dataStorage": "ອຸປະກອນເກັບຂໍ້ມູນຄວາມຈຸສູງ"
+      }
+    },
+    "eyebrow": "ຄວາມສາມາດຂອງພວກເຮົາ",
+    "heroTitle": "ຜະລິດຕະພັນ ແລະ ບໍລິການ",
+    "categoriesLabel": "ເບິ່ງໝວດຜະລິດຕະພັນ",
+    "services": {
+      "title": "ບໍລິການຄົບວົງຈອນ",
+      "subtitle": "ທຸກໝວດຜະລິດຕະພັນທີ່ພວກເຮົາຈັດສະໜອງ ມາພ້ອມກັບບໍລິການຄົບຖ້ວນແບບດຽວກັນ.",
+      "items": {
+        "supply": {
+          "title": "ການຈັດສະໜອງ",
+          "body": "ຈັດຫາ ແລະ ສົ່ງມອບອຸປະກອນທີ່ໄດ້ມາດຕະຖານ."
+        },
+        "installation": {
+          "title": "ການຕິດຕັ້ງ",
+          "body": "ຕິດຕັ້ງ ແລະ ທົດສອບລະບົບໂດຍວິສະວະກອນຂອງພວກເຮົາ."
+        },
+        "maintenance": {
+          "title": "ການບຳລຸງຮັກສາ",
+          "body": "ບຳລຸງຮັກສາຕາມກຳນົດ ເພື່ອໃຫ້ລະບົບໃຊ້ງານໄດ້ຢ່າງໜ້າເຊື່ອຖື."
+        },
+        "support": {
+          "title": "ສະໜັບສະໜູນດ້ານເຕັກນິກ",
+          "body": "ພ້ອມຊ່ວຍເຫຼືອທ່ານທຸກເວລາທີ່ຕ້ອງການ."
+        }
+      }
     }
   },
   "team": {
     "title": "ທີມງານຂອງພວກເຮົາ",
-    "subtitle": "ພົບກັບທີມງານມືອາຊີບທີ່ໄດ້ຮັບໃບຢັ້ງຢືນເບື້ອງຫຼັງ ID Solution.",
-    "chart": { "title": "ຜັງໂຄງສ້າງອົງກອນ", "sales": "ຝ່າຍຂາຍ", "technical": "ຝ່າຍເຕັກນິກ", "admin": "ຝ່າຍບໍລິຫານ" },
+    "subtitle": "ພົບກັບທີມງານມືອາຊີບທີ່ໄດ້ຮັບໃບຢັ້ງຢືນເບື້ອງຫຼັງ Saypaseuth.",
+    "chart": {
+      "title": "ຜັງໂຄງສ້າງອົງກອນ",
+      "sales": "ຝ່າຍຂາຍ",
+      "technical": "ຝ່າຍເຕັກນິກ",
+      "admin": "ຝ່າຍບໍລິຫານ"
+    },
     "roles": {
-      "managingDirector": { "name": "ຜູ້ອຳນວຍການບໍລິຫານ", "position": "ຜູ້ອຳນວຍການບໍລິຫານ", "bio": "ນຳພາຍຸດທະສາດ ແລະ ການເຕີບໂຕຂອງ ID Solution ດ້ວຍປະສົບການຫຼາຍປີໃນອຸດສາຫະກຳໄອທີ." },
-      "salesExecutive1": { "name": "ພະນັກງານຝ່າຍຂາຍ", "position": "ພະນັກງານຝ່າຍຂາຍ", "bio": "ຊ່ວຍລູກຄ້າຄົ້ນຫາໂຊລູຊັນເຕັກໂນໂລຊີທີ່ເໝາະສົມສຳລັບອົງກອນຂອງເຂົາເຈົ້າ." },
-      "salesExecutive2": { "name": "ພະນັກງານຝ່າຍຂາຍ", "position": "ພະນັກງານຝ່າຍຂາຍ", "bio": "ມຸ່ງໝັ້ນສ້າງສາຍສຳພັນກັບລູກຄ້າທີ່ຍືນຍົງ ແລະ ຂໍ້ສະເໜີທີ່ເໝາະສົມ." },
-      "itEngineer1": { "name": "ວິສະວະກອນໄອທີ", "position": "ວິສະວະກອນໄອທີ", "bio": "ຊ່ຽວຊານດ້ານການຕິດຕັ້ງເຊີບເວີ, ເຄືອຂ່າຍ ແລະ ໂຄງສ້າງພື້ນຖານລະດັບອົງກອນ." },
-      "itEngineer2": { "name": "ວິສະວະກອນໄອທີ", "position": "ວິສະວະກອນໄອທີ", "bio": "ຊ່ຽວຊານດ້ານ CCTV, ການຄວບຄຸມການເຂົ້າອອກ ແລະ ການຕິດຕັ້ງລະບົບຄວາມປອດໄພ." },
-      "itEngineer3": { "name": "ວິສະວະກອນໄອທີ", "position": "ວິສະວະກອນໄອທີ", "bio": "ເນັ້ນໃສ່ການບຳລຸງຮັກສາ, ສະໜັບສະໜູນດ້ານເຕັກນິກ ແລະ ຄວາມສຳເລັດຂອງລູກຄ້າ." },
-      "adminAccountant": { "name": "ບໍລິຫານ ແລະ ບັນຊີ", "position": "ບໍລິຫານ ແລະ ບັນຊີ", "bio": "ດູແລໃຫ້ການດຳເນີນງານລຽບງ່າຍ ແລະ ບັນຊີລູກຄ້າຖືກຄຸ້ມຄອງເປັນຢ່າງດີ." }
+      "managingDirector": {
+        "name": "ຜູ້ອຳນວຍການບໍລິຫານ",
+        "position": "ຜູ້ອຳນວຍການບໍລິຫານ",
+        "bio": "ນຳພາຍຸດທະສາດ ແລະ ການເຕີບໂຕຂອງ Saypaseuth ດ້ວຍປະສົບການຫຼາຍປີໃນອຸດສາຫະກຳໄອທີ."
+      },
+      "salesExecutive1": {
+        "name": "ພະນັກງານຝ່າຍຂາຍ",
+        "position": "ພະນັກງານຝ່າຍຂາຍ",
+        "bio": "ຊ່ວຍລູກຄ້າຄົ້ນຫາໂຊລູຊັນເຕັກໂນໂລຊີທີ່ເໝາະສົມສຳລັບອົງກອນຂອງເຂົາເຈົ້າ."
+      },
+      "salesExecutive2": {
+        "name": "ພະນັກງານຝ່າຍຂາຍ",
+        "position": "ພະນັກງານຝ່າຍຂາຍ",
+        "bio": "ມຸ່ງໝັ້ນສ້າງສາຍສຳພັນກັບລູກຄ້າທີ່ຍືນຍົງ ແລະ ຂໍ້ສະເໜີທີ່ເໝາະສົມ."
+      },
+      "itEngineer1": {
+        "name": "ວິສະວະກອນໄອທີ",
+        "position": "ວິສະວະກອນໄອທີ",
+        "bio": "ຊ່ຽວຊານດ້ານການຕິດຕັ້ງເຊີບເວີ, ເຄືອຂ່າຍ ແລະ ໂຄງສ້າງພື້ນຖານລະດັບອົງກອນ."
+      },
+      "itEngineer2": {
+        "name": "ວິສະວະກອນໄອທີ",
+        "position": "ວິສະວະກອນໄອທີ",
+        "bio": "ຊ່ຽວຊານດ້ານ CCTV, ການຄວບຄຸມການເຂົ້າອອກ ແລະ ການຕິດຕັ້ງລະບົບຄວາມປອດໄພ."
+      },
+      "itEngineer3": {
+        "name": "ວິສະວະກອນໄອທີ",
+        "position": "ວິສະວະກອນໄອທີ",
+        "bio": "ເນັ້ນໃສ່ການບຳລຸງຮັກສາ, ສະໜັບສະໜູນດ້ານເຕັກນິກ ແລະ ຄວາມສຳເລັດຂອງລູກຄ້າ."
+      },
+      "adminAccountant": {
+        "name": "ບໍລິຫານ ແລະ ບັນຊີ",
+        "position": "ບໍລິຫານ ແລະ ບັນຊີ",
+        "bio": "ດູແລໃຫ້ການດຳເນີນງານລຽບງ່າຍ ແລະ ບັນຊີລູກຄ້າຖືກຄຸ້ມຄອງເປັນຢ່າງດີ."
+      }
     }
   },
   "portfolio": {
     "title": "ຜົນງານ",
-    "subtitle": "ຕົວຢ່າງໂຄງການໄອທີ ແລະ ຄວາມປອດໄພຂອງພວກເຮົາທົ່ວ ສປປ ລາວ.",
+    "subtitle": "ຮູບພາບງານຈິງຈາກໂຄງການ ແລະ ສະຖານທີ່ຕິດຕັ້ງ ດ້ານໄອທີ, ປ້ອງກັນໄຟຟ້າ, ພະລັງແສງອາທິດ ແລະ ສຳຫຼວດດ້ວຍໂດຣນ — ລວມທັງບໍລິບົດງານຈາກຈີນ, ໄທ ແລະ ຫວຽດນາມ.",
     "categories": {
       "itEquipmentSupply": "ການຈັດສະໜອງອຸປະກອນໄອທີ",
       "serverInstallation": "ການຕິດຕັ້ງເຊີບເວີ",
       "networkInfrastructure": "ໂຄງສ້າງພື້ນຖານເຄືອຂ່າຍ",
       "cctvInstallation": "ການຕິດຕັ້ງ CCTV",
       "accessControlProjects": "ໂຄງການຄວບຄຸມການເຂົ້າອອກ",
-      "enterpriseSolutions": "ໂຊລູຊັນລະດັບອົງກອນ"
+      "enterpriseSolutions": "ໂຊລູຊັນລະດັບອົງກອນ",
+      "electricalProtection": "ການປ້ອງກັນໄຟຟ້າ",
+      "solarInstallation": "ການຕິດຕັ້ງພະລັງແສງອາທິດ",
+      "droneSurvey": "ໂດຣນກວດກາ ແລະ ສຳຫຼວດ"
     },
-    "all": "ທັງໝົດ"
+    "all": "ທັງໝົດ",
+    "regions": {
+      "china": "ຈີນ",
+      "thailand": "ໄທ",
+      "vietnam": "ຫວຽດນາມ"
+    },
+    "titles": {
+      "3": "Enterprise Server Room Installation",
+      "7": "CCTV Surveillance Deployment",
+      "13": "High-Voltage Protection Equipment",
+      "38": "Enterprise Network Infrastructure",
+      "46": "Data Center Server Deployment",
+      "53": "Solar Farm Installation",
+      "54": "Solar PV Array Supply",
+      "56": "Rooftop Solar Installation"
+    }
   },
   "partners": {
     "title": "ຄູ່ຮ່ວມງານດ້ານເຕັກໂນໂລຊີຂອງພວກເຮົາ",
@@ -175,7 +314,17 @@
   "clients": {
     "title": "ລູກຄ້າຂອງພວກເຮົາ",
     "subtitle": "ໄດ້ຮັບຄວາມໄວ້ວາງໃຈຈາກອົງກອນຕ່າງໆທົ່ວ ສປປ ລາວ.",
-    "empty": "ຂໍ້ມູນອ້າງອີງລູກຄ້າຈະມາໃນໄວໆນີ້."
+    "sectionEyebrow": "ຄູ່ຮ່ວມງານທີ່ໄດ້ຮັບການພິສູດແລ້ວ",
+    "sectionTitle": "ສົ່ງເສີມອົງກອນທົ່ວ ສປປ ລາວ",
+    "sectionSubtitle": "ກະຊວງລັດຖະບານ, ອົງການຈັດຕັ້ງສາກົນ, ທະນາຄານຊັ້ນນຳ ແລະ ວິສາຫະກິດໃຫຍ່ເລືອກ Saypaseuth ເພື່ອໂຄງຮ່າງພື້ນຖານໄອທີ, ລະບົບຄວາມປອດໄພ ແລະ ການສະໜັບສະໜູນດ້ານເຕັກນິກທີ່ເຊື່ອຖືໄດ້.",
+    "empty": "ຂໍ້ມູນອ້າງອີງລູກຄ້າຈະມາໃນໄວໆນີ້.",
+    "summaries": {
+      "lsx": "HP servers, storage & Cisco networking",
+      "ntpc": "Dell EqualLogic & PowerEdge servers",
+      "rhb": "Lenovo System X & IBM tape library",
+      "bfl": "HP ProLiant servers",
+      "anz": "HP ProLiant servers"
+    }
   },
   "contact": {
     "title": "ຕິດຕໍ່ພວກເຮົາ",
@@ -201,11 +350,32 @@
       "error": "ມີບາງຢ່າງຜິດພາດ. ກະລຸນາລອງໃໝ່ ຫຼື ຕິດຕໍ່ພວກເຮົາໂດຍກົງ.",
       "sending": "ກຳລັງສົ່ງ…",
       "required": "ກະລຸນາຕື່ມຂໍ້ມູນໃນຊ່ອງນີ້"
-    }
+    },
+    "hours": "Business Hours",
+    "hoursValue": "Monday – Friday, 8:00 AM – 5:00 PM"
   },
   "quote": {
     "title": "ຂໍໃບສະເໜີລາຄາ",
     "subtitle": "ບອກພວກເຮົາວ່າທ່ານຕ້ອງການຫຍັງ ແລະ ພວກເຮົາຈະຈັດກຽມໃບສະເໜີລາຄາຟຣີ ໂດຍບໍ່ມີຂໍ້ຜູກມັດໃຫ້ທ່ານ.",
+    "highlights": [
+      {
+        "title": "ຟຣີ ແລະ ບໍ່ມີຂໍ້ຜູກມັດ",
+        "body": "ຮັບໃບສະເໜີລາຄາລະອຽດໂດຍບໍ່ເສຍຄ່າ — ບໍ່ຈຳເປັນຕ້ອງຜູກມັດ."
+      },
+      {
+        "title": "ຕອບກັບໄວ",
+        "body": "ທີມງານຂອງພວກເຮົາຕອบພາຍໃນ 1–2 ວັນເຮັດວຽກພ້ອມຄຳແນະນຳທີ່ເໝາະສົມ."
+      },
+      {
+        "title": "ຄວາມຊຳນານທີ່ໄດ້ຮັບການຮັບຮອງ",
+        "body": "ໂຊລູຊັນຈາກວິສະວະກອນທີ່ໄດ້ຮັບການຮັບຮອງ ແລະ ຄູ່ຮ່ວມດ້ານເຕັກໂນໂລຊີລະດັບໂລກ."
+      },
+      {
+        "title": "ບໍລິການຄົບວົງຈອນ",
+        "body": "ຈັດສະໜອງ, ຕິດຕັ້ງ, ບຳລຸງຮັກສາ ແລະ ສະໜັບສະໜູນດ້ານເຕັກນິກທົ່ວປະເທດ."
+      }
+    ],
+    "trustLine": "ໄດ້ຮັບຄວາມໄວ້ວາງໃຈຈາກກະຊວງລັດຖະບານ, ອົງການຈັດຕັ້ງສາກົນ, ທະນາຄານ ແລະ ວິສາຫະກິດທົ່ວ ສປປ ລາວ.",
     "form": {
       "name": "ຊື່",
       "company": "ບໍລິສັດ",
@@ -216,19 +386,187 @@
       "submit": "ຂໍໃບສະເໜີລາຄາຟຣີ",
       "success": "ຂອບໃຈ! ພວກເຮົາໄດ້ຮັບຄຳຮ້ອງຂໍໃບສະເໜີລາຄາຂອງທ່ານແລ້ວ. ພວກເຮົາຈະຕິດຕໍ່ຫາທ່ານໃນໄວໆນີ້.",
       "error": "ມີບາງຢ່າງຜິດພາດ. ກະລຸນາລອງໃໝ່ ຫຼື ຕິດຕໍ່ພວກເຮົາໂດຍກົງ.",
-      "sending": "ກຳລັງສົ່ງ…"
+      "sending": "ກຳລັງສົ່ງ…",
+      "category": "Category",
+      "categoryPlaceholder": "Select a category",
+      "subjectQuote": "New Quotation Request — Saypaseuth Advance",
+      "subjectContact": "New Inquiry — Saypaseuth Advance",
+      "categories": {
+        "it": "IT Equipment & Enterprise",
+        "electrical": "Electrical Protection",
+        "solar": "Solar Power",
+        "drone": "Drone Inspection",
+        "cctv": "CCTV & Security",
+        "access": "Access Control",
+        "other": "Other / Multiple"
+      }
     }
   },
   "footer": {
-    "description": "ຜູ້ຈັດຈຳໜ່າຍອຸປະກອນໄອທີ, ໂຄງສ້າງພື້ນຖານລະດັບອົງກອນ, ລະບົບຄວາມປອດໄພ CCTV, ການຄວບຄຸມການເຂົ້າອອກ, ໄມ້ກັ້ນປະຕູ ແລະ ເຄື່ອງໃຊ້ສຳນັກງານໃນ ສປປ ລາວ — ລວມທັງການຈັດສະໜອງ, ຕິດຕັ້ງ, ບຳລຸງຮັກສາ ແລະ ສະໜັບສະໜູນດ້ານເຕັກນິກ.",
+    "description": "ຜູ້ຈັດຈຳໜ່າຍອຸປະກອນໄອທີ, ໂຄງສ້າງພື້ນຖານລະດັບອົງກອນ, ລະບົບປ້ອງກັນໄຟຟ້າແຮງດັນສູງ, ລະບົບໂດຣນກວດກາ, CCTV, ຄວບຄຸມການເຂົ້າອອກ ແລະ ໄມ້ກັ້ນປະຕູໃນ ສປປ ລາວ — ພ້ອມຈັດສະໜອງ, ຕິດຕັ້ງ, ບຳລຸງຮັກສາ ແລະ ສະໜັບສະໜູນດ້ານເຕັກນິກ.",
     "quickLinks": "ລິ້ງດ່ວນ",
     "products": "ຜະລິດຕະພັນ ແລະ ບໍລິການ",
     "contactTitle": "ຕິດຕໍ່",
     "viewOnMap": "ເບິ່ງໃນ Google Maps",
-    "rights": "ສະຫງວນລິຂະສິດທັງໝົດ."
+    "rights": "ສະຫງວນລິຂະສິດທັງໝົດ.",
+    "privacy": "Privacy Policy",
+    "faq": "FAQ"
   },
   "meta": {
-    "title": "ID Solution Sole Co., Ltd. | ອຸປະກອນໄອທີ ແລະ ໂຊລູຊັນລະດັບອົງກອນໃນລາວ",
-    "description": "ຜູ້ຈັດຈຳໜ່າຍອຸປະກອນໄອທີ, ເຄື່ອງໃຊ້ສຳນັກງານ, ໂຄງສ້າງພື້ນຖານລະດັບອົງກອນ, ລະບົບ CCTV, ການຄວບຄຸມການເຂົ້າອອກ, ໄມ້ກັ້ນປະຕູ ແລະ ບໍລິການໄອທີແບບມືອາຊີບໃນ ສປປ ລາວ."
+    "title": "Saypaseuth Advance Co., Ltd. | ໄອທີ, ປ້ອງກັນໄຟຟ້າ ແລະ ໂຊລູຊັນໂດຣນໃນລາວ",
+    "description": "ຜູ້ຈັດຈຳໜ່າຍອຸປະກອນໄອທີ, ລະບົບປ້ອງກັນໄຟຟ້າແຮງດັນສູງ, ລະບົບພະລັງແສງອາທິດ, ລະບົບໂດຣນກວດກາ, ໂຄງສ້າງພື້ນຖານລະດັບອົງກອນ, CCTV ແລະ ບໍລິການດ້ານເຕັກນິກໃນ ສປປ ລາວ.",
+    "pages": {
+      "home": {
+        "title": "Saypaseuth Advance | IT, Solar & Power Solutions in Laos",
+        "description": "Trusted technology partner in Lao PDR — IT infrastructure, solar power, electrical protection, drone survey, and security solutions with nationwide support."
+      },
+      "about": {
+        "title": "About Us | Saypaseuth Advance",
+        "description": "Learn about Saypaseuth Advance — your trusted IT, solar, power protection, and security partner serving organizations across Lao PDR."
+      },
+      "products": {
+        "title": "Products & Services | Saypaseuth Advance",
+        "description": "Enterprise IT, solar power, electrical protection, drone inspection, CCTV, access control, and end-to-end installation services in Lao PDR."
+      },
+      "portfolio": {
+        "title": "Portfolio | Saypaseuth Advance",
+        "description": "Project photography from real IT, solar, electrical, and security installations across Lao PDR and the region."
+      },
+      "partners": {
+        "title": "Technology Partners | Saypaseuth Advance",
+        "description": "Authorized partnerships with Dell, HPE, Cisco, Fortinet, Hikvision, and 40+ leading technology brands."
+      },
+      "clients": {
+        "title": "Our Clients | Saypaseuth Advance",
+        "description": "Trusted by government, banking, utilities, and enterprise organizations across Lao PDR."
+      },
+      "team": {
+        "title": "Our Team | Saypaseuth Advance",
+        "description": "Meet the certified professionals behind Saypaseuth Advance."
+      },
+      "contact": {
+        "title": "Contact Us | Saypaseuth Advance",
+        "description": "Get in touch for inquiries, free quotations, and technical support. Vientiane Capital, Lao PDR."
+      },
+      "faq": {
+        "title": "FAQ | Saypaseuth Advance",
+        "description": "Frequently asked questions about our products, services, quotations, and technical support."
+      },
+      "privacy": {
+        "title": "Privacy Policy | Saypaseuth Advance",
+        "description": "How Saypaseuth Advance collects, uses, and protects your personal information."
+      }
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Your trusted technology, power, and security partner in Lao PDR since day one.",
+    "mission": {
+      "title": "Our Mission",
+      "body": "To deliver reliable IT infrastructure, electrical protection, solar power, and security solutions — with honest advice, certified expertise, and dependable after-sales support for every client we serve."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "body": "To be the most trusted technology and power solutions distributor in Lao PDR, empowering organizations to operate safely, efficiently, and sustainably."
+    },
+    "values": {
+      "title": "What We Stand For",
+      "items": {
+        "integrity": {
+          "title": "Integrity",
+          "body": "Honest recommendations and transparent pricing on every project."
+        },
+        "quality": {
+          "title": "Quality",
+          "body": "Certified products from leading global brands, installed to professional standards."
+        },
+        "service": {
+          "title": "Service",
+          "body": "Responsive support from quotation through installation and long-term maintenance."
+        },
+        "partnership": {
+          "title": "Partnership",
+          "body": "Long-term relationships built on trust with government, enterprise, and SME clients."
+        }
+      }
+    },
+    "stats": {
+      "title": "At a Glance",
+      "items": {
+        "experience": {
+          "value": "15+",
+          "label": "Years of Experience"
+        },
+        "clients": {
+          "value": "100+",
+          "label": "Clients Served"
+        },
+        "brands": {
+          "value": "40+",
+          "label": "Technology Partners"
+        },
+        "support": {
+          "value": "Nationwide",
+          "label": "Service Coverage"
+        }
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Common questions about our products, services, and quotation process.",
+    "items": [
+      {
+        "q": "How do I request a quotation?",
+        "a": "Use the quotation form on our Contact page or the home page. Tell us what you need and our team will respond within 1–2 business days with a free, no-obligation quote."
+      },
+      {
+        "q": "Do you provide installation and maintenance?",
+        "a": "Yes. We offer end-to-end service — supply, installation, commissioning, scheduled maintenance, and technical support for all product categories."
+      },
+      {
+        "q": "Which areas do you serve?",
+        "a": "We serve clients throughout Lao PDR. For regional projects, we have experience working in China, Thailand, and Vietnam as well."
+      },
+      {
+        "q": "What brands and products do you supply?",
+        "a": "We partner with leading brands including Dell, HPE, Cisco, Fortinet, Hikvision, APC, and many more — covering IT, security, UPS, solar, and electrical protection."
+      },
+      {
+        "q": "Do you supply solar power systems?",
+        "a": "Yes. We supply solar PV panels, inverters, battery storage, and provide commercial, industrial, and residential installation with ongoing maintenance."
+      },
+      {
+        "q": "How can I get technical support?",
+        "a": "Contact us by phone, email, WhatsApp, or the contact form. Our certified engineers provide responsive assistance for troubleshooting, maintenance, and warranty support."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "subtitle": "How we collect, use, and protect your information.",
+    "updated": "Last updated: August 2026",
+    "sections": [
+      {
+        "title": "Information We Collect",
+        "body": "When you submit a contact or quotation form, we collect the information you provide — such as your name, company, phone number, email address, and message content. We may also collect basic usage data when you visit our website."
+      },
+      {
+        "title": "How We Use Your Information",
+        "body": "We use your information solely to respond to inquiries, prepare quotations, deliver services, and communicate about your projects. We do not sell or share your personal data with third parties for marketing purposes."
+      },
+      {
+        "title": "Data Storage & Security",
+        "body": "Form submissions are processed securely through our email service provider. We take reasonable measures to protect your information from unauthorized access, alteration, or disclosure."
+      },
+      {
+        "title": "Your Rights",
+        "body": "You may request access to, correction of, or deletion of your personal data by contacting us at info@saypaseuth.com."
+      },
+      {
+        "title": "Contact",
+        "body": "For privacy-related questions, contact Saypaseuth Advance Co., Ltd. at info@saypaseuth.com or 020 59916868."
+      }
+    ]
   }
 }

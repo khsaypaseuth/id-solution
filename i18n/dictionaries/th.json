@@ -7,7 +7,9 @@
     "partners": "พันธมิตร",
     "clients": "ลูกค้า",
     "contact": "ติดต่อเรา",
-    "requestQuote": "ขอใบเสนอราคา"
+    "requestQuote": "ขอใบเสนอราคา",
+    "about": "About",
+    "faq": "FAQ"
   },
   "common": {
     "requestQuotation": "ขอใบเสนอราคา",
@@ -17,22 +19,23 @@
     "learnMore": "เรียนรู้เพิ่มเติม",
     "viewAll": "ดูทั้งหมด",
     "send": "ส่ง",
-    "loading": "กำลังโหลด…"
+    "loading": "กำลังโหลด…",
+    "brandEyebrow": "Saypaseuth Advance"
   },
   "home": {
     "hero": {
-      "headline": "โซลูชันอุปกรณ์ไอทีและเทคโนโลยีระดับองค์กรที่ไว้วางใจได้ใน สปป. ลาว",
-      "subheadline": "ให้บริการโครงสร้างพื้นฐานไอที ระบบรักษาความปลอดภัย โซลูชันเครือข่าย และบริการทางเทคนิคระดับมืออาชีพที่เชื่อถือได้"
+      "headline": "โซลูชันเทคโนโลยี ระบบป้องกันไฟฟ้า และโดรนสำรวจที่น่าเชื่อถือใน สปป. ลาว",
+      "subheadline": "ส่งมอบโครงสร้างพื้นฐานไอที ระบบป้องกันไฟฟ้าแรงดันสูง ระบบพลังงานแสงอาทิตย์ ระบบโดรนตรวจสอบ ความปลอดภัย และบริการด้านเทคนิค"
     },
     "intro": {
       "title": "พันธมิตรด้านเทคโนโลยีที่คุณไว้วางใจได้",
-      "body": "ID Solution Sole Co., Ltd. เป็นผู้จัดจำหน่ายชั้นนำด้านอุปกรณ์ไอที โครงสร้างพื้นฐานระดับองค์กร และระบบรักษาความปลอดภัยใน สปป. ลาว เราให้บริการจัดหา ติดตั้ง บำรุงรักษา และสนับสนุนทางเทคนิคแก่องค์กรทั่วประเทศ โดยมีวิศวกรผู้ได้รับการรับรองและความร่วมมืออย่างเป็นทางการกับแบรนด์เทคโนโลยีชั้นนำระดับโลก",
-      "experience": "ประสบการณ์หลายปีในการให้บริการลูกค้าภาครัฐ ธนาคาร องค์กร และวิสาหกิจขนาดกลางและขนาดย่อม",
+      "body": "Saypaseuth Advance Co., Ltd. เป็นผู้จัดจำหน่ายชั้นนำด้านอุปกรณ์ไอที โครงสร้างพื้นฐานระดับองค์กร ระบบป้องกันไฟฟ้าแรงดันสูง ระบบพลังงานแสงอาทิตย์ ระบบโดรนตรวจสอบ และโซลูชันความปลอดภัยใน สปป. ลาว เราให้บริการจัดหา ติดตั้ง บำรุงรักษา และสนับสนุนทางเทคนิคแก่องค์กรทั่วประเทศ โดยมีวิศวกรผู้ได้รับการรับรองและความร่วมมือด้านเทคโนโลยีที่น่าเชื่อถือ",
+      "experience": "ประสบการณ์หลายปีในการให้บริการภาครัฐ พลังงาน ธนาคาร องค์กร และ SME",
       "commitment": "เรามุ่งมั่นในการนำเสนอโซลูชันที่เชื่อถือได้ คำแนะนำที่จริงใจ และการสนับสนุนหลังการขายที่ไว้วางใจได้"
     },
     "why": {
       "title": "ทำไมต้องเลือกเรา",
-      "subtitle": "สิ่งที่ทำให้ ID Solution เป็นตัวเลือกที่องค์กรทั่ว สปป. ลาว ไว้วางใจ",
+      "subtitle": "สิ่งที่ทำให้ Saypaseuth เป็นตัวเลือกที่องค์กรทั่ว สปป. ลาว ไว้วางใจ",
       "items": {
         "professionalTeam": {
           "title": "ทีมงานมืออาชีพ",
@@ -71,13 +74,34 @@
         "manufacturing": "การผลิต",
         "retail": "ค้าปลีก",
         "hospitality": "การโรงแรมและบริการ",
-        "smes": "วิสาหกิจขนาดกลางและขนาดย่อม"
+        "smes": "วิสาหกิจขนาดกลางและขนาดย่อม",
+        "energy": "พลังงานและสาธารณูปโภค"
       }
+    },
+    "productsPreview": {
+      "title": "Products & Services",
+      "subtitle": "From enterprise IT and power protection to solar, security, and aerial survey — full supply, installation, and support.",
+      "items": {
+        "enterprise": "Enterprise IT & Data Center",
+        "electrical": "Electrical Protection",
+        "solar": "Solar Power",
+        "security": "CCTV & Access Control",
+        "drone": "Drone Inspection",
+        "services": "Installation & Support"
+      }
+    },
+    "portfolio": {
+      "title": "Recent Projects",
+      "subtitle": "Real installations and site work across Lao PDR and the region."
+    },
+    "clients": {
+      "title": "Trusted By Leading Organizations",
+      "subtitle": "Government, banking, utilities, and enterprise clients across Lao PDR."
     }
   },
   "products": {
     "title": "สินค้าและบริการ",
-    "subtitle": "อุปกรณ์ไอที โครงสร้างพื้นฐานระดับองค์กร และโซลูชันด้านความปลอดภัยครบวงจร พร้อมบริการจัดหา ติดตั้ง บำรุงรักษา และสนับสนุน",
+    "subtitle": "ครบวงจรทั้งอุปกรณ์ไอที โครงสร้างพื้นฐานระดับองค์กร ระบบป้องกันไฟฟ้า ระบบพลังงานแสงอาทิตย์ ระบบโดรนตรวจสอบ และความปลอดภัย พร้อมบริการจัดหา ติดตั้ง บำรุงรักษา และสนับสนุน",
     "consumer": {
       "title": "อุปกรณ์ไอทีสำหรับผู้ใช้ทั่วไป",
       "items": {
@@ -129,34 +153,149 @@
         "parking": "ระบบที่จอดรถ",
         "automatic": "ไม้กั้นทางเข้าออกอัตโนมัติ"
       }
+    },
+    "electricalProtection": {
+      "title": "อุปกรณ์ป้องกันไฟฟ้าแรงดันสูง",
+      "items": {
+        "surgeArresters": "สายล่อฟ้า/เซิร์จอาร์เรสเตอร์แบบโพลิเมอร์",
+        "transmissionProtection": "ระบบป้องกันสายส่งไฟฟ้า",
+        "lightningProtection": "ระบบป้องกันฟ้าผ่าและแรงดันเกิน",
+        "substationEquipment": "อุปกรณ์ป้องกันสถานีไฟฟ้า",
+        "hvSupply": "จัดหาอุปกรณ์ไฟฟ้าแรงดันสูง",
+        "hvSupport": "สนับสนุนการติดตั้งและทดสอบระบบ"
+      }
+    },
+    "solarPower": {
+      "title": "พลังงานแสงอาทิตย์และการติดตั้ง",
+      "items": {
+        "solarPanels": "แผงโซลาร์เซลล์ (Solar PV)",
+        "inverters": "อินเวอร์เตอร์และระบบไฮบริด",
+        "mounting": "โครงยึดและรางติดตั้ง",
+        "batteries": "ระบบแบตเตอรี่สำรองพลังงาน",
+        "commercialInstall": "ติดตั้งเชิงพาณิชย์และอุตสาหกรรม",
+        "residentialInstall": "ติดตั้งบ้านและบนหลังคา",
+        "gridTie": "ระบบเชื่อมโยงกับสายส่งและนอกสายส่ง",
+        "maintenance": "บำรุงรักษาและติดตามระบบ"
+      }
+    },
+    "droneSurvey": {
+      "title": "ระบบโดรนตรวจสอบและสำรวจ",
+      "items": {
+        "enterpriseDrones": "โดรนตรวจสอบระดับองค์กร",
+        "thermalImaging": "เพย์โหลดถ่ายภาพความร้อน",
+        "lidarSurvey": "ระบบ LiDAR และสำรวจ",
+        "gnssStations": "สถานีอ้างอิง GNSS",
+        "flightAccessories": "แบตเตอรี่ รีโมต และอุปกรณ์เสริม",
+        "portablePower": "สถานีไฟฟ้าพกพาสำหรับภาคสนาม",
+        "fieldMeters": "เครื่องวัดอุณหภูมิและกระแสลม",
+        "permitsSupport": "สนับสนุนใบอนุญาตใช้งานโดรน",
+        "fieldComputing": "คอมพิวเตอร์สำหรับงานภาคสนาม",
+        "dataStorage": "อุปกรณ์จัดเก็บข้อมูลความจุสูง"
+      }
+    },
+    "eyebrow": "ความเชี่ยวชาญของเรา",
+    "heroTitle": "สินค้าและบริการ",
+    "categoriesLabel": "ดูหมวดสินค้า",
+    "services": {
+      "title": "บริการครบวงจร",
+      "subtitle": "ทุกหมวดสินค้าที่เราจัดจำหน่ายมาพร้อมบริการครบวงจรมาตรฐานเดียวกัน",
+      "items": {
+        "supply": {
+          "title": "จัดหาสินค้า",
+          "body": "จัดหาและส่งมอบอุปกรณ์ที่ได้มาตรฐาน"
+        },
+        "installation": {
+          "title": "ติดตั้ง",
+          "body": "ติดตั้งและทดสอบระบบโดยวิศวกรของเรา"
+        },
+        "maintenance": {
+          "title": "บำรุงรักษา",
+          "body": "บำรุงรักษาตามกำหนดเพื่อให้ระบบทำงานได้อย่างน่าเชื่อถือ"
+        },
+        "support": {
+          "title": "สนับสนุนทางเทคนิค",
+          "body": "พร้อมให้ความช่วยเหลือทุกเมื่อที่คุณต้องการ"
+        }
+      }
     }
   },
   "team": {
     "title": "ทีมงานของเรา",
-    "subtitle": "พบกับทีมผู้เชี่ยวชาญที่ได้รับการรับรองเบื้องหลัง ID Solution",
-    "chart": { "title": "ผังโครงสร้างองค์กร", "sales": "ฝ่ายขาย", "technical": "ฝ่ายเทคนิค", "admin": "ฝ่ายบริหาร" },
+    "subtitle": "พบกับทีมผู้เชี่ยวชาญที่ได้รับการรับรองเบื้องหลัง Saypaseuth",
+    "chart": {
+      "title": "ผังโครงสร้างองค์กร",
+      "sales": "ฝ่ายขาย",
+      "technical": "ฝ่ายเทคนิค",
+      "admin": "ฝ่ายบริหาร"
+    },
     "roles": {
-      "managingDirector": { "name": "กรรมการผู้จัดการ", "position": "กรรมการผู้จัดการ", "bio": "นำพากลยุทธ์และการเติบโตของ ID Solution ด้วยประสบการณ์หลายปีในอุตสาหกรรมไอที" },
-      "salesExecutive1": { "name": "เจ้าหน้าที่ฝ่ายขาย", "position": "เจ้าหน้าที่ฝ่ายขาย", "bio": "ช่วยลูกค้าค้นหาโซลูชันเทคโนโลยีที่เหมาะสมกับองค์กรของพวกเขา" },
-      "salesExecutive2": { "name": "เจ้าหน้าที่ฝ่ายขาย", "position": "เจ้าหน้าที่ฝ่ายขาย", "bio": "มุ่งมั่นสร้างความสัมพันธ์ระยะยาวกับลูกค้าและจัดทำข้อเสนอที่ตอบโจทย์เฉพาะ" },
-      "itEngineer1": { "name": "วิศวกรไอที", "position": "วิศวกรไอที", "bio": "ผู้เชี่ยวชาญด้านการติดตั้งเซิร์ฟเวอร์ เครือข่าย และโครงสร้างพื้นฐานระดับองค์กร" },
-      "itEngineer2": { "name": "วิศวกรไอที", "position": "วิศวกรไอที", "bio": "ผู้เชี่ยวชาญด้านการติดตั้งกล้อง CCTV ระบบควบคุมการเข้าออก และระบบรักษาความปลอดภัย" },
-      "itEngineer3": { "name": "วิศวกรไอที", "position": "วิศวกรไอที", "bio": "มุ่งเน้นด้านการบำรุงรักษา การสนับสนุนทางเทคนิค และความสำเร็จของลูกค้า" },
-      "adminAccountant": { "name": "เจ้าหน้าที่ธุรการและบัญชี", "position": "เจ้าหน้าที่ธุรการและบัญชี", "bio": "ดูแลการดำเนินงานให้ราบรื่นและบริหารจัดการบัญชีลูกค้าอย่างเป็นระบบ" }
+      "managingDirector": {
+        "name": "กรรมการผู้จัดการ",
+        "position": "กรรมการผู้จัดการ",
+        "bio": "นำพากลยุทธ์และการเติบโตของ Saypaseuth ด้วยประสบการณ์หลายปีในอุตสาหกรรมไอที"
+      },
+      "salesExecutive1": {
+        "name": "เจ้าหน้าที่ฝ่ายขาย",
+        "position": "เจ้าหน้าที่ฝ่ายขาย",
+        "bio": "ช่วยลูกค้าค้นหาโซลูชันเทคโนโลยีที่เหมาะสมกับองค์กรของพวกเขา"
+      },
+      "salesExecutive2": {
+        "name": "เจ้าหน้าที่ฝ่ายขาย",
+        "position": "เจ้าหน้าที่ฝ่ายขาย",
+        "bio": "มุ่งมั่นสร้างความสัมพันธ์ระยะยาวกับลูกค้าและจัดทำข้อเสนอที่ตอบโจทย์เฉพาะ"
+      },
+      "itEngineer1": {
+        "name": "วิศวกรไอที",
+        "position": "วิศวกรไอที",
+        "bio": "ผู้เชี่ยวชาญด้านการติดตั้งเซิร์ฟเวอร์ เครือข่าย และโครงสร้างพื้นฐานระดับองค์กร"
+      },
+      "itEngineer2": {
+        "name": "วิศวกรไอที",
+        "position": "วิศวกรไอที",
+        "bio": "ผู้เชี่ยวชาญด้านการติดตั้งกล้อง CCTV ระบบควบคุมการเข้าออก และระบบรักษาความปลอดภัย"
+      },
+      "itEngineer3": {
+        "name": "วิศวกรไอที",
+        "position": "วิศวกรไอที",
+        "bio": "มุ่งเน้นด้านการบำรุงรักษา การสนับสนุนทางเทคนิค และความสำเร็จของลูกค้า"
+      },
+      "adminAccountant": {
+        "name": "เจ้าหน้าที่ธุรการและบัญชี",
+        "position": "เจ้าหน้าที่ธุรการและบัญชี",
+        "bio": "ดูแลการดำเนินงานให้ราบรื่นและบริหารจัดการบัญชีลูกค้าอย่างเป็นระบบ"
+      }
     }
   },
   "portfolio": {
     "title": "ผลงาน",
-    "subtitle": "ตัวอย่างโครงการด้านไอทีและความปลอดภัยของเราทั่ว สปป. ลาว",
+    "subtitle": "ภาพงานจริงจากโครงการและหน้างานติดตั้งด้านไอที ระบบป้องกันไฟฟ้า พลังงานแสงอาทิตย์ และโดรนสำรวจ รวมบริบทงานจากจีน ไทย และเวียดนาม",
     "categories": {
       "itEquipmentSupply": "การจัดหาอุปกรณ์ไอที",
       "serverInstallation": "การติดตั้งเซิร์ฟเวอร์",
       "networkInfrastructure": "โครงสร้างพื้นฐานเครือข่าย",
       "cctvInstallation": "การติดตั้งกล้อง CCTV",
       "accessControlProjects": "โครงการระบบควบคุมการเข้าออก",
-      "enterpriseSolutions": "โซลูชันระดับองค์กร"
+      "enterpriseSolutions": "โซลูชันระดับองค์กร",
+      "electricalProtection": "ระบบป้องกันไฟฟ้า",
+      "solarInstallation": "การติดตั้งพลังงานแสงอาทิตย์",
+      "droneSurvey": "โดรนตรวจสอบและสำรวจ"
     },
-    "all": "ทั้งหมด"
+    "all": "ทั้งหมด",
+    "regions": {
+      "china": "จีน",
+      "thailand": "ไทย",
+      "vietnam": "เวียดนาม"
+    },
+    "titles": {
+      "3": "Enterprise Server Room Installation",
+      "7": "CCTV Surveillance Deployment",
+      "13": "High-Voltage Protection Equipment",
+      "38": "Enterprise Network Infrastructure",
+      "46": "Data Center Server Deployment",
+      "53": "Solar Farm Installation",
+      "54": "Solar PV Array Supply",
+      "56": "Rooftop Solar Installation"
+    }
   },
   "partners": {
     "title": "พันธมิตรด้านเทคโนโลยีของเรา",
@@ -175,7 +314,17 @@
   "clients": {
     "title": "ลูกค้าของเรา",
     "subtitle": "ได้รับความไว้วางใจจากองค์กรทั่ว สปป. ลาว",
-    "empty": "ข้อมูลอ้างอิงลูกค้าจะเปิดให้ชมเร็ว ๆ นี้"
+    "sectionEyebrow": "พันธมิตรที่พิสูจน์แล้ว",
+    "sectionTitle": "ขับเคลื่อนองค์กรทั่ว สปป. ลาว",
+    "sectionSubtitle": "กระทรวง องค์กรระหว่างประเทศ ธนาคารชั้นนำ และองค์กรขนาดใหญ่เลือก Saypaseuth สำหรับโครงสร้างพื้นฐานไอที ระบบความปลอดภัย และการสนับสนุนทางเทคนิคที่ไว้ใจได้",
+    "empty": "ข้อมูลอ้างอิงลูกค้าจะเปิดให้ชมเร็ว ๆ นี้",
+    "summaries": {
+      "lsx": "HP servers, storage & Cisco networking",
+      "ntpc": "Dell EqualLogic & PowerEdge servers",
+      "rhb": "Lenovo System X & IBM tape library",
+      "bfl": "HP ProLiant servers",
+      "anz": "HP ProLiant servers"
+    }
   },
   "contact": {
     "title": "ติดต่อเรา",
@@ -201,11 +350,32 @@
       "error": "เกิดข้อผิดพลาดบางอย่าง กรุณาลองใหม่อีกครั้งหรือติดต่อเราโดยตรง",
       "sending": "กำลังส่ง…",
       "required": "กรุณากรอกข้อมูลในช่องนี้"
-    }
+    },
+    "hours": "Business Hours",
+    "hoursValue": "Monday – Friday, 8:00 AM – 5:00 PM"
   },
   "quote": {
     "title": "ขอใบเสนอราคา",
     "subtitle": "แจ้งความต้องการของท่าน แล้วเราจะจัดทำใบเสนอราคาฟรีโดยไม่มีข้อผูกมัด",
+    "highlights": [
+      {
+        "title": "ฟรี ไม่มีข้อผูกมัด",
+        "body": "รับใบเสนอราคารายละเอียดโดยไม่เสียค่าใช้จ่าย — ไม่ต้องผูกมัด"
+      },
+      {
+        "title": "ตอบกลับรวดเร็ว",
+        "body": "ทีมงานตอบกลับภายใน 1–2 วันทำการ พร้อมคำแนะนำที่เหมาะสม"
+      },
+      {
+        "title": "ความเชี่ยวชาญที่ได้รับการรับรอง",
+        "body": "โซลูชันจากวิศวกรที่ได้รับการรับรองและพันธมิตรเทคโนโลยีระดับโลก"
+      },
+      {
+        "title": "บริการครบวงจร",
+        "body": "จัดหา ติดตั้ง บำรุงรักษา และสนับสนุนทางเทคนิคทั่วประเทศ"
+      }
+    ],
+    "trustLine": "ได้รับความไว้วางใจจากหน่วยงานภาครัฐ องค์กรระหว่างประเทศ ธนาคาร และองค์กรชั้นนำทั่ว สปป. ลาว",
     "form": {
       "name": "ชื่อ",
       "company": "บริษัท",
@@ -216,19 +386,187 @@
       "submit": "ขอใบเสนอราคาฟรี",
       "success": "ขอบคุณครับ/ค่ะ! เราได้รับคำขอใบเสนอราคาของท่านแล้ว เราจะติดต่อกลับในเร็ว ๆ นี้",
       "error": "เกิดข้อผิดพลาดบางอย่าง กรุณาลองใหม่อีกครั้งหรือติดต่อเราโดยตรง",
-      "sending": "กำลังส่ง…"
+      "sending": "กำลังส่ง…",
+      "category": "Category",
+      "categoryPlaceholder": "Select a category",
+      "subjectQuote": "New Quotation Request — Saypaseuth Advance",
+      "subjectContact": "New Inquiry — Saypaseuth Advance",
+      "categories": {
+        "it": "IT Equipment & Enterprise",
+        "electrical": "Electrical Protection",
+        "solar": "Solar Power",
+        "drone": "Drone Inspection",
+        "cctv": "CCTV & Security",
+        "access": "Access Control",
+        "other": "Other / Multiple"
+      }
     }
   },
   "footer": {
-    "description": "ผู้จัดจำหน่ายอุปกรณ์ไอที โครงสร้างพื้นฐานระดับองค์กร ระบบรักษาความปลอดภัย CCTV ระบบควบคุมการเข้าออก ไม้กั้นทางเข้าออก และอุปกรณ์สำนักงานใน สปป. ลาว พร้อมบริการจัดหา ติดตั้ง บำรุงรักษา และสนับสนุนทางเทคนิค",
+    "description": "ผู้จัดจำหน่ายอุปกรณ์ไอที โครงสร้างพื้นฐานระดับองค์กร ระบบป้องกันไฟฟ้าแรงดันสูง ระบบโดรนตรวจสอบ CCTV ระบบควบคุมการเข้าออก และไม้กั้นทางเข้าออกใน สปป. ลาว รวมถึงจัดหา ติดตั้ง บำรุงรักษา และสนับสนุนทางเทคนิค",
     "quickLinks": "ลิงก์ด่วน",
     "products": "สินค้าและบริการ",
     "contactTitle": "ติดต่อ",
     "viewOnMap": "ดูบน Google Maps",
-    "rights": "สงวนลิขสิทธิ์ทั้งหมด"
+    "rights": "สงวนลิขสิทธิ์ทั้งหมด",
+    "privacy": "Privacy Policy",
+    "faq": "FAQ"
   },
   "meta": {
-    "title": "ID Solution Sole Co., Ltd. | อุปกรณ์ไอทีและโซลูชันระดับองค์กรในลาว",
-    "description": "ผู้จัดจำหน่ายอุปกรณ์ไอที อุปกรณ์สำนักงาน โครงสร้างพื้นฐานระดับองค์กร ระบบ CCTV ระบบควบคุมการเข้าออก ไม้กั้นทางเข้าออก และบริการไอทีระดับมืออาชีพใน สปป. ลาว"
+    "title": "Saypaseuth Advance Co., Ltd. | ไอที ระบบป้องกันไฟฟ้า และโดรนในลาว",
+    "description": "ผู้จัดจำหน่ายอุปกรณ์ไอที ระบบป้องกันไฟฟ้าแรงดันสูง ระบบพลังงานแสงอาทิตย์ ระบบโดรนตรวจสอบ โครงสร้างพื้นฐานระดับองค์กร CCTV และบริการด้านเทคนิคใน สปป. ลาว",
+    "pages": {
+      "home": {
+        "title": "Saypaseuth Advance | IT, Solar & Power Solutions in Laos",
+        "description": "Trusted technology partner in Lao PDR — IT infrastructure, solar power, electrical protection, drone survey, and security solutions with nationwide support."
+      },
+      "about": {
+        "title": "About Us | Saypaseuth Advance",
+        "description": "Learn about Saypaseuth Advance — your trusted IT, solar, power protection, and security partner serving organizations across Lao PDR."
+      },
+      "products": {
+        "title": "Products & Services | Saypaseuth Advance",
+        "description": "Enterprise IT, solar power, electrical protection, drone inspection, CCTV, access control, and end-to-end installation services in Lao PDR."
+      },
+      "portfolio": {
+        "title": "Portfolio | Saypaseuth Advance",
+        "description": "Project photography from real IT, solar, electrical, and security installations across Lao PDR and the region."
+      },
+      "partners": {
+        "title": "Technology Partners | Saypaseuth Advance",
+        "description": "Authorized partnerships with Dell, HPE, Cisco, Fortinet, Hikvision, and 40+ leading technology brands."
+      },
+      "clients": {
+        "title": "Our Clients | Saypaseuth Advance",
+        "description": "Trusted by government, banking, utilities, and enterprise organizations across Lao PDR."
+      },
+      "team": {
+        "title": "Our Team | Saypaseuth Advance",
+        "description": "Meet the certified professionals behind Saypaseuth Advance."
+      },
+      "contact": {
+        "title": "Contact Us | Saypaseuth Advance",
+        "description": "Get in touch for inquiries, free quotations, and technical support. Vientiane Capital, Lao PDR."
+      },
+      "faq": {
+        "title": "FAQ | Saypaseuth Advance",
+        "description": "Frequently asked questions about our products, services, quotations, and technical support."
+      },
+      "privacy": {
+        "title": "Privacy Policy | Saypaseuth Advance",
+        "description": "How Saypaseuth Advance collects, uses, and protects your personal information."
+      }
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Your trusted technology, power, and security partner in Lao PDR since day one.",
+    "mission": {
+      "title": "Our Mission",
+      "body": "To deliver reliable IT infrastructure, electrical protection, solar power, and security solutions — with honest advice, certified expertise, and dependable after-sales support for every client we serve."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "body": "To be the most trusted technology and power solutions distributor in Lao PDR, empowering organizations to operate safely, efficiently, and sustainably."
+    },
+    "values": {
+      "title": "What We Stand For",
+      "items": {
+        "integrity": {
+          "title": "Integrity",
+          "body": "Honest recommendations and transparent pricing on every project."
+        },
+        "quality": {
+          "title": "Quality",
+          "body": "Certified products from leading global brands, installed to professional standards."
+        },
+        "service": {
+          "title": "Service",
+          "body": "Responsive support from quotation through installation and long-term maintenance."
+        },
+        "partnership": {
+          "title": "Partnership",
+          "body": "Long-term relationships built on trust with government, enterprise, and SME clients."
+        }
+      }
+    },
+    "stats": {
+      "title": "At a Glance",
+      "items": {
+        "experience": {
+          "value": "15+",
+          "label": "Years of Experience"
+        },
+        "clients": {
+          "value": "100+",
+          "label": "Clients Served"
+        },
+        "brands": {
+          "value": "40+",
+          "label": "Technology Partners"
+        },
+        "support": {
+          "value": "Nationwide",
+          "label": "Service Coverage"
+        }
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Common questions about our products, services, and quotation process.",
+    "items": [
+      {
+        "q": "How do I request a quotation?",
+        "a": "Use the quotation form on our Contact page or the home page. Tell us what you need and our team will respond within 1–2 business days with a free, no-obligation quote."
+      },
+      {
+        "q": "Do you provide installation and maintenance?",
+        "a": "Yes. We offer end-to-end service — supply, installation, commissioning, scheduled maintenance, and technical support for all product categories."
+      },
+      {
+        "q": "Which areas do you serve?",
+        "a": "We serve clients throughout Lao PDR. For regional projects, we have experience working in China, Thailand, and Vietnam as well."
+      },
+      {
+        "q": "What brands and products do you supply?",
+        "a": "We partner with leading brands including Dell, HPE, Cisco, Fortinet, Hikvision, APC, and many more — covering IT, security, UPS, solar, and electrical protection."
+      },
+      {
+        "q": "Do you supply solar power systems?",
+        "a": "Yes. We supply solar PV panels, inverters, battery storage, and provide commercial, industrial, and residential installation with ongoing maintenance."
+      },
+      {
+        "q": "How can I get technical support?",
+        "a": "Contact us by phone, email, WhatsApp, or the contact form. Our certified engineers provide responsive assistance for troubleshooting, maintenance, and warranty support."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "subtitle": "How we collect, use, and protect your information.",
+    "updated": "Last updated: August 2026",
+    "sections": [
+      {
+        "title": "Information We Collect",
+        "body": "When you submit a contact or quotation form, we collect the information you provide — such as your name, company, phone number, email address, and message content. We may also collect basic usage data when you visit our website."
+      },
+      {
+        "title": "How We Use Your Information",
+        "body": "We use your information solely to respond to inquiries, prepare quotations, deliver services, and communicate about your projects. We do not sell or share your personal data with third parties for marketing purposes."
+      },
+      {
+        "title": "Data Storage & Security",
+        "body": "Form submissions are processed securely through our email service provider. We take reasonable measures to protect your information from unauthorized access, alteration, or disclosure."
+      },
+      {
+        "title": "Your Rights",
+        "body": "You may request access to, correction of, or deletion of your personal data by contacting us at info@saypaseuth.com."
+      },
+      {
+        "title": "Contact",
+        "body": "For privacy-related questions, contact Saypaseuth Advance Co., Ltd. at info@saypaseuth.com or 020 59916868."
+      }
+    ]
   }
 }

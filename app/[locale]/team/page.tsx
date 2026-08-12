@@ -1,7 +1,16 @@
 import { isLocale } from '@/i18n/config';
 import { getDictionary } from '@/i18n/dictionaries';
+import { pageMetadata } from '@/lib/metadata';
 import PageHero from '@/components/PageHero';
+import Reveal from '@/components/Reveal';
 import { TEAM } from '@/lib/site';
+
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  const loc = isLocale(locale) ? locale : 'en';
+  const dict = getDictionary(loc);
+  return pageMetadata(loc, '/team', dict.meta.pages.team);
+}
 
 type RoleId = keyof ReturnType<typeof getDictionary>['team']['roles'];
 
@@ -50,23 +59,28 @@ export default async function TeamChartPage({
 
   return (
     <>
-      <PageHero title={dict.team.chart.title} subtitle={dict.team.subtitle} />
+      <PageHero
+        title={dict.team.title}
+        subtitle={dict.team.subtitle}
+        image="/images/team-hero.jpg"
+        eyebrow={dict.common.brandEyebrow}
+      />
 
       <section className="container-px section">
         <div className="flex flex-col items-center">
-          {/* Managing Director */}
+          <Reveal>
           <PersonNode id="managingDirector" dict={dict} size="lg" />
+          </Reveal>
 
-          {/* Connectors (desktop only) */}
           <div className="hidden md:block">
             <div className="mx-auto h-12 w-px bg-gray-300" />
             <div className="mx-auto h-px w-2/3 bg-gray-300" />
           </div>
 
-          {/* Departments */}
           <div className="mt-10 grid w-full gap-12 md:mt-0 md:grid-cols-3 md:gap-6">
-            {groups.map((g) => (
-              <div key={g.key} className="flex flex-col items-center">
+            {groups.map((g, gi) => (
+              <Reveal key={g.key} delay={gi * 100} variant="fade-up">
+              <div className="flex flex-col items-center">
                 {/* vertical connector up to the horizontal bar */}
                 <div className="hidden h-12 w-px bg-gray-300 md:block" />
                 {/* department label */}
@@ -80,6 +94,7 @@ export default async function TeamChartPage({
                   ))}
                 </div>
               </div>
+              </Reveal>
             ))}
           </div>
         </div>

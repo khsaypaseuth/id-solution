@@ -9,7 +9,7 @@ export default function RootPage() {
       <head>
         <meta httpEquiv="refresh" content={`0; url=${target}`} />
         <link rel="canonical" href={target} />
-        <title>ID Solution Sole Co., Ltd.</title>
+        <title>Saypaseuth Advance Co., Ltd.</title>
       </head>
       <body style={{ fontFamily: 'system-ui, sans-serif', padding: '2rem' }}>
         Redirecting to <a href={target}>{target}</a>…

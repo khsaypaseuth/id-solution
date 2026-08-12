@@ -2,7 +2,7 @@ import type { MetadataRoute } from 'next';
 import { locales } from '@/i18n/config';
 import { SITE } from '@/lib/site';
 
-const paths = ['', '/products', '/team', '/portfolio', '/partners', '/clients', '/contact'];
+const paths = ['', '/about', '/products', '/team', '/portfolio', '/partners', '/clients', '/contact', '/faq', '/privacy'];
 
 export const dynamic = 'force-static';
 

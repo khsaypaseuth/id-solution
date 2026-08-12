@@ -15,9 +15,16 @@ export default function InquiryForm({
 }) {
   const [status, setStatus] = useState<'idle' | 'sending' | 'success' | 'error'>('idle');
   const t = variant === 'quote' ? dict.quote.form : dict.contact.form;
+  const categories = dict.quote.form.categories;
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
+
+    if (SITE.web3formsKey === 'YOUR_WEB3FORMS_ACCESS_KEY') {
+      setStatus('error');
+      return;
+    }
+
     setStatus('sending');
     const form = e.currentTarget;
     const formData = new FormData(form);
@@ -25,9 +32,7 @@ export default function InquiryForm({
     formData.append('from_name', SITE.name);
     formData.append(
       'subject',
-      variant === 'quote'
-        ? 'New Quotation Request — idsolution.la'
-        : 'New Inquiry — idsolution.la',
+      variant === 'quote' ? dict.quote.form.subjectQuote : dict.quote.form.subjectContact,
     );
 
     try {
@@ -47,8 +52,7 @@ export default function InquiryForm({
     }
   }
 
-  const inputClass =
-    'w-full rounded-lg border border-gray-300 px-4 py-2.5 text-sm text-ink shadow-sm outline-none transition focus:border-brand-secondary focus:ring-2 focus:ring-brand-secondary/30';
+  const inputClass = 'input-premium';
   const labelClass = 'mb-1.5 block text-sm font-medium text-ink/80';
 
   if (status === 'success') {
@@ -118,8 +122,17 @@ export default function InquiryForm({
             </div>
           </div>
           <div>
+            <label className={labelClass} htmlFor="q-category">{dict.quote.form.category}</label>
+            <select id="q-category" name="category" required className={inputClass} defaultValue="">
+              <option value="" disabled>{dict.quote.form.categoryPlaceholder}</option>
+              {Object.entries(categories).map(([key, label]) => (
+                <option key={key} value={label}>{label}</option>
+              ))}
+            </select>
+          </div>
+          <div>
             <label className={labelClass} htmlFor="q-product">{dict.quote.form.product}</label>
-            <input id="q-product" name="product" required className={inputClass} />
+            <input id="q-product" name="product" className={inputClass} />
           </div>
           <div>
             <label className={labelClass} htmlFor="q-desc">{dict.quote.form.description}</label>
@@ -128,7 +141,6 @@ export default function InquiryForm({
         </>
       )}
 
-      {/* Honeypot for spam */}
       <input type="checkbox" name="botcheck" className="hidden" tabIndex={-1} autoComplete="off" />
 
       {status === 'error' && (

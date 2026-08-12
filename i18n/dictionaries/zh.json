@@ -7,7 +7,9 @@
     "partners": "合作伙伴",
     "clients": "客户",
     "contact": "联系我们",
-    "requestQuote": "申请报价"
+    "requestQuote": "申请报价",
+    "about": "About",
+    "faq": "FAQ"
   },
   "common": {
     "requestQuotation": "申请报价",
@@ -17,22 +19,23 @@
     "learnMore": "了解更多",
     "viewAll": "查看全部",
     "send": "发送",
-    "loading": "加载中…"
+    "loading": "加载中…",
+    "brandEyebrow": "Saypaseuth Advance"
   },
   "home": {
     "hero": {
-      "headline": "老挝人民民主共和国值得信赖的IT设备与企业级技术解决方案",
-      "subheadline": "提供可靠的IT基础设施、安防系统、网络解决方案及专业技术服务。"
+      "headline": "老挝值得信赖的科技、电力保护与航测解决方案",
+      "subheadline": "提供可靠的IT基础设施、高压电力保护、太阳能发电系统、专业无人机巡检系统、安防解决方案及技术服务。"
     },
     "intro": {
       "title": "您值得信赖的技术合作伙伴",
-      "body": "ID Solution Sole Co., Ltd. 是老挝人民民主共和国领先的IT设备、企业级基础设施及安防系统供应商。我们为全国各类机构提供供货、安装、维护和技术支持服务——由认证工程师团队提供保障，并与全球领先的技术品牌建立官方合作关系。",
-      "experience": "多年来为政府、银行、企业及中小企业客户提供服务的丰富经验。",
+      "body": "Saypaseuth Advance Co., Ltd. 是老挝人民民主共和国领先的IT设备、企业级基础设施、高压电力保护、太阳能发电系统、专业无人机巡检系统及安防解决方案供应商。我们为全国各类机构提供供货、安装、维护和技术支持服务——由认证工程师团队与可信技术合作伙伴共同保障。",
+      "experience": "多年服务政府、能源公用事业、银行、企业及中小企业客户的经验。",
       "commitment": "我们致力于提供可靠的解决方案、诚信的建议以及值得信赖的售后支持。"
     },
     "why": {
       "title": "为何选择我们",
-      "subtitle": "ID Solution 成为老挝全国各机构值得信赖之选的原因所在。",
+      "subtitle": "Saypaseuth 成为老挝全国各机构值得信赖之选的原因所在。",
       "items": {
         "professionalTeam": {
           "title": "专业团队",
@@ -71,13 +74,34 @@
         "manufacturing": "制造业",
         "retail": "零售业",
         "hospitality": "酒店服务业",
-        "smes": "中小企业"
+        "smes": "中小企业",
+        "energy": "能源与公用事业"
       }
+    },
+    "productsPreview": {
+      "title": "Products & Services",
+      "subtitle": "From enterprise IT and power protection to solar, security, and aerial survey — full supply, installation, and support.",
+      "items": {
+        "enterprise": "Enterprise IT & Data Center",
+        "electrical": "Electrical Protection",
+        "solar": "Solar Power",
+        "security": "CCTV & Access Control",
+        "drone": "Drone Inspection",
+        "services": "Installation & Support"
+      }
+    },
+    "portfolio": {
+      "title": "Recent Projects",
+      "subtitle": "Real installations and site work across Lao PDR and the region."
+    },
+    "clients": {
+      "title": "Trusted By Leading Organizations",
+      "subtitle": "Government, banking, utilities, and enterprise clients across Lao PDR."
     }
   },
   "products": {
     "title": "产品与服务",
-    "subtitle": "完整的IT设备、企业级基础设施及安防解决方案系列——提供供货、安装、维护与支持服务。",
+    "subtitle": "完整覆盖IT设备、企业级基础设施、电力保护、太阳能发电系统、航测巡检系统及安防解决方案——提供供货、安装、维护与支持服务。",
     "consumer": {
       "title": "消费级IT设备",
       "items": {
@@ -129,34 +153,149 @@
         "parking": "停车场系统",
         "automatic": "自动道闸"
       }
+    },
+    "electricalProtection": {
+      "title": "高压电力保护设备",
+      "items": {
+        "surgeArresters": "聚合物线路避雷器",
+        "transmissionProtection": "输电线路保护",
+        "lightningProtection": "雷电与过电压保护",
+        "substationEquipment": "变电站保护设备",
+        "hvSupply": "高压设备供货",
+        "hvSupport": "安装支持与调试"
+      }
+    },
+    "solarPower": {
+      "title": "太阳能发电与安装",
+      "items": {
+        "solarPanels": "太阳能光伏板",
+        "inverters": "逆变器与混合系统",
+        "mounting": "支架与安装结构",
+        "batteries": "储能电池系统",
+        "commercialInstall": "商业与工业安装",
+        "residentialInstall": "住宅与屋顶安装",
+        "gridTie": "并网与离网解决方案",
+        "maintenance": "系统维护与监控"
+      }
+    },
+    "droneSurvey": {
+      "title": "无人机巡检与测绘系统",
+      "items": {
+        "enterpriseDrones": "企业级巡检无人机",
+        "thermalImaging": "热成像载荷",
+        "lidarSurvey": "激光雷达与测绘载荷",
+        "gnssStations": "GNSS参考站",
+        "flightAccessories": "电池、遥控器及配件",
+        "portablePower": "便携式电源站",
+        "fieldMeters": "温度与风速测量仪",
+        "permitsSupport": "无人机飞行许可支持",
+        "fieldComputing": "现场高性能计算设备",
+        "dataStorage": "大容量数据存储设备"
+      }
+    },
+    "eyebrow": "我们的能力",
+    "heroTitle": "产品与服务",
+    "categoriesLabel": "浏览产品类别",
+    "services": {
+      "title": "全流程交付服务",
+      "subtitle": "我们供应的每一类产品都享有同等标准的全流程服务保障。",
+      "items": {
+        "supply": {
+          "title": "设备供货",
+          "body": "采购并交付符合认证标准的设备。"
+        },
+        "installation": {
+          "title": "安装部署",
+          "body": "由我们的工程师完成部署与调试。"
+        },
+        "maintenance": {
+          "title": "维护保养",
+          "body": "定期维护，确保系统稳定可靠。"
+        },
+        "support": {
+          "title": "技术支持",
+          "body": "随时为您提供快速响应的技术协助。"
+        }
+      }
     }
   },
   "team": {
     "title": "我们的团队",
-    "subtitle": "认识 ID Solution 背后的认证专业人员。",
-    "chart": { "title": "组织架构图", "sales": "销售部", "technical": "技术部", "admin": "行政部" },
+    "subtitle": "认识 Saypaseuth 背后的认证专业人员。",
+    "chart": {
+      "title": "组织架构图",
+      "sales": "销售部",
+      "technical": "技术部",
+      "admin": "行政部"
+    },
     "roles": {
-      "managingDirector": { "name": "董事总经理", "position": "董事总经理", "bio": "凭借在IT行业多年的经验，引领 ID Solution 的战略发展与业务增长。" },
-      "salesExecutive1": { "name": "销售主管", "position": "销售主管", "bio": "帮助客户为其机构找到合适的技术解决方案。" },
-      "salesExecutive2": { "name": "销售主管", "position": "销售主管", "bio": "致力于建立长期的客户关系并提供量身定制的方案。" },
-      "itEngineer1": { "name": "IT工程师", "position": "IT工程师", "bio": "专精于服务器、网络及企业级基础设施的部署。" },
-      "itEngineer2": { "name": "IT工程师", "position": "IT工程师", "bio": "擅长CCTV监控、门禁控制及安防系统的安装。" },
-      "itEngineer3": { "name": "IT工程师", "position": "IT工程师", "bio": "专注于维护、技术支持与客户成功服务。" },
-      "adminAccountant": { "name": "行政与会计", "position": "行政与会计", "bio": "确保运营顺畅，妥善管理客户账务。" }
+      "managingDirector": {
+        "name": "董事总经理",
+        "position": "董事总经理",
+        "bio": "凭借在IT行业多年的经验，引领 Saypaseuth 的战略发展与业务增长。"
+      },
+      "salesExecutive1": {
+        "name": "销售主管",
+        "position": "销售主管",
+        "bio": "帮助客户为其机构找到合适的技术解决方案。"
+      },
+      "salesExecutive2": {
+        "name": "销售主管",
+        "position": "销售主管",
+        "bio": "致力于建立长期的客户关系并提供量身定制的方案。"
+      },
+      "itEngineer1": {
+        "name": "IT工程师",
+        "position": "IT工程师",
+        "bio": "专精于服务器、网络及企业级基础设施的部署。"
+      },
+      "itEngineer2": {
+        "name": "IT工程师",
+        "position": "IT工程师",
+        "bio": "擅长CCTV监控、门禁控制及安防系统的安装。"
+      },
+      "itEngineer3": {
+        "name": "IT工程师",
+        "position": "IT工程师",
+        "bio": "专注于维护、技术支持与客户成功服务。"
+      },
+      "adminAccountant": {
+        "name": "行政与会计",
+        "position": "行政与会计",
+        "bio": "确保运营顺畅，妥善管理客户账务。"
+      }
     }
   },
   "portfolio": {
     "title": "项目案例",
-    "subtitle": "精选我们在老挝全国各地的IT与安防项目案例。",
+    "subtitle": "真实项目与现场施工照片，涵盖IT、电力保护、太阳能安装与航测——并包含中国、泰国与越南相关项目场景。",
     "categories": {
       "itEquipmentSupply": "IT设备供货",
       "serverInstallation": "服务器安装",
       "networkInfrastructure": "网络基础设施",
       "cctvInstallation": "CCTV监控安装",
       "accessControlProjects": "门禁控制项目",
-      "enterpriseSolutions": "企业级解决方案"
+      "enterpriseSolutions": "企业级解决方案",
+      "electricalProtection": "电力保护",
+      "solarInstallation": "太阳能安装",
+      "droneSurvey": "无人机巡检与测绘"
     },
-    "all": "全部"
+    "all": "全部",
+    "regions": {
+      "china": "中国",
+      "thailand": "泰国",
+      "vietnam": "越南"
+    },
+    "titles": {
+      "3": "Enterprise Server Room Installation",
+      "7": "CCTV Surveillance Deployment",
+      "13": "High-Voltage Protection Equipment",
+      "38": "Enterprise Network Infrastructure",
+      "46": "Data Center Server Deployment",
+      "53": "Solar Farm Installation",
+      "54": "Solar PV Array Supply",
+      "56": "Rooftop Solar Installation"
+    }
   },
   "partners": {
     "title": "我们的技术合作伙伴",
@@ -175,7 +314,17 @@
   "clients": {
     "title": "我们的客户",
     "subtitle": "深受老挝全国各机构信赖。",
-    "empty": "客户案例即将上线。"
+    "sectionEyebrow": "值得信赖的合作",
+    "sectionTitle": "助力老挝全国机构发展",
+    "sectionSubtitle": "政府部门、国际组织、领先银行及大型企业选择 Saypaseuth，获得可靠的 IT 基础设施、安防系统及专业技术支持。",
+    "empty": "客户案例即将上线。",
+    "summaries": {
+      "lsx": "HP servers, storage & Cisco networking",
+      "ntpc": "Dell EqualLogic & PowerEdge servers",
+      "rhb": "Lenovo System X & IBM tape library",
+      "bfl": "HP ProLiant servers",
+      "anz": "HP ProLiant servers"
+    }
   },
   "contact": {
     "title": "联系我们",
@@ -201,11 +350,32 @@
       "error": "出现错误。请重试或直接与我们联系。",
       "sending": "发送中…",
       "required": "此项为必填项"
-    }
+    },
+    "hours": "Business Hours",
+    "hoursValue": "Monday – Friday, 8:00 AM – 5:00 PM"
   },
   "quote": {
     "title": "申请报价",
     "subtitle": "请告诉我们您的需求，我们将为您准备一份免费、无任何附加条件的报价。",
+    "highlights": [
+      {
+        "title": "免费且无附加条件",
+        "body": "免费提供详细报价 — 无需任何承诺。"
+      },
+      {
+        "title": "快速响应",
+        "body": "团队将在1–2个工作日内回复，并提供量身定制的建议。"
+      },
+      {
+        "title": "认证专业实力",
+        "body": "由认证工程师及全球信赖的技术合作伙伴提供解决方案。"
+      },
+      {
+        "title": "端到端服务",
+        "body": "涵盖供应、安装、维护及全国范围技术支持。"
+      }
+    ],
+    "trustLine": "深受老挝政府机构、国际组织、银行及企业客户的信赖。",
     "form": {
       "name": "姓名",
       "company": "公司",
@@ -216,19 +386,187 @@
       "submit": "申请免费报价",
       "success": "感谢您！我们已收到您的报价申请，将尽快与您联系。",
       "error": "出现错误。请重试或直接与我们联系。",
-      "sending": "发送中…"
+      "sending": "发送中…",
+      "category": "Category",
+      "categoryPlaceholder": "Select a category",
+      "subjectQuote": "New Quotation Request — Saypaseuth Advance",
+      "subjectContact": "New Inquiry — Saypaseuth Advance",
+      "categories": {
+        "it": "IT Equipment & Enterprise",
+        "electrical": "Electrical Protection",
+        "solar": "Solar Power",
+        "drone": "Drone Inspection",
+        "cctv": "CCTV & Security",
+        "access": "Access Control",
+        "other": "Other / Multiple"
+      }
     }
   },
   "footer": {
-    "description": "老挝人民民主共和国IT设备、企业级基础设施、CCTV监控安防、门禁控制、道闸及办公用品供应商——提供供货、安装、维护与技术支持服务。",
+    "description": "老挝IT设备、企业级基础设施、高压电力保护、无人机巡检系统、CCTV安防、门禁及道闸系统供应商——提供供货、安装、维护与技术支持。",
     "quickLinks": "快速链接",
     "products": "产品与服务",
     "contactTitle": "联系方式",
     "viewOnMap": "在谷歌地图上查看",
-    "rights": "版权所有。"
+    "rights": "版权所有。",
+    "privacy": "Privacy Policy",
+    "faq": "FAQ"
   },
   "meta": {
-    "title": "ID Solution Sole Co., Ltd. | 老挝IT设备与企业级解决方案",
-    "description": "老挝人民民主共和国IT设备、办公用品、企业级基础设施、CCTV监控系统、门禁控制、道闸及专业IT服务供应商。"
+    "title": "Saypaseuth Advance Co., Ltd. | 老挝IT、电力保护与无人机解决方案",
+    "description": "老挝IT设备、高压电力保护、太阳能发电系统、专业无人机巡检系统、企业级基础设施、CCTV安防及技术服务供应商。",
+    "pages": {
+      "home": {
+        "title": "Saypaseuth Advance | IT, Solar & Power Solutions in Laos",
+        "description": "Trusted technology partner in Lao PDR — IT infrastructure, solar power, electrical protection, drone survey, and security solutions with nationwide support."
+      },
+      "about": {
+        "title": "About Us | Saypaseuth Advance",
+        "description": "Learn about Saypaseuth Advance — your trusted IT, solar, power protection, and security partner serving organizations across Lao PDR."
+      },
+      "products": {
+        "title": "Products & Services | Saypaseuth Advance",
+        "description": "Enterprise IT, solar power, electrical protection, drone inspection, CCTV, access control, and end-to-end installation services in Lao PDR."
+      },
+      "portfolio": {
+        "title": "Portfolio | Saypaseuth Advance",
+        "description": "Project photography from real IT, solar, electrical, and security installations across Lao PDR and the region."
+      },
+      "partners": {
+        "title": "Technology Partners | Saypaseuth Advance",
+        "description": "Authorized partnerships with Dell, HPE, Cisco, Fortinet, Hikvision, and 40+ leading technology brands."
+      },
+      "clients": {
+        "title": "Our Clients | Saypaseuth Advance",
+        "description": "Trusted by government, banking, utilities, and enterprise organizations across Lao PDR."
+      },
+      "team": {
+        "title": "Our Team | Saypaseuth Advance",
+        "description": "Meet the certified professionals behind Saypaseuth Advance."
+      },
+      "contact": {
+        "title": "Contact Us | Saypaseuth Advance",
+        "description": "Get in touch for inquiries, free quotations, and technical support. Vientiane Capital, Lao PDR."
+      },
+      "faq": {
+        "title": "FAQ | Saypaseuth Advance",
+        "description": "Frequently asked questions about our products, services, quotations, and technical support."
+      },
+      "privacy": {
+        "title": "Privacy Policy | Saypaseuth Advance",
+        "description": "How Saypaseuth Advance collects, uses, and protects your personal information."
+      }
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Your trusted technology, power, and security partner in Lao PDR since day one.",
+    "mission": {
+      "title": "Our Mission",
+      "body": "To deliver reliable IT infrastructure, electrical protection, solar power, and security solutions — with honest advice, certified expertise, and dependable after-sales support for every client we serve."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "body": "To be the most trusted technology and power solutions distributor in Lao PDR, empowering organizations to operate safely, efficiently, and sustainably."
+    },
+    "values": {
+      "title": "What We Stand For",
+      "items": {
+        "integrity": {
+          "title": "Integrity",
+          "body": "Honest recommendations and transparent pricing on every project."
+        },
+        "quality": {
+          "title": "Quality",
+          "body": "Certified products from leading global brands, installed to professional standards."
+        },
+        "service": {
+          "title": "Service",
+          "body": "Responsive support from quotation through installation and long-term maintenance."
+        },
+        "partnership": {
+          "title": "Partnership",
+          "body": "Long-term relationships built on trust with government, enterprise, and SME clients."
+        }
+      }
+    },
+    "stats": {
+      "title": "At a Glance",
+      "items": {
+        "experience": {
+          "value": "15+",
+          "label": "Years of Experience"
+        },
+        "clients": {
+          "value": "100+",
+          "label": "Clients Served"
+        },
+        "brands": {
+          "value": "40+",
+          "label": "Technology Partners"
+        },
+        "support": {
+          "value": "Nationwide",
+          "label": "Service Coverage"
+        }
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Common questions about our products, services, and quotation process.",
+    "items": [
+      {
+        "q": "How do I request a quotation?",
+        "a": "Use the quotation form on our Contact page or the home page. Tell us what you need and our team will respond within 1–2 business days with a free, no-obligation quote."
+      },
+      {
+        "q": "Do you provide installation and maintenance?",
+        "a": "Yes. We offer end-to-end service — supply, installation, commissioning, scheduled maintenance, and technical support for all product categories."
+      },
+      {
+        "q": "Which areas do you serve?",
+        "a": "We serve clients throughout Lao PDR. For regional projects, we have experience working in China, Thailand, and Vietnam as well."
+      },
+      {
+        "q": "What brands and products do you supply?",
+        "a": "We partner with leading brands including Dell, HPE, Cisco, Fortinet, Hikvision, APC, and many more — covering IT, security, UPS, solar, and electrical protection."
+      },
+      {
+        "q": "Do you supply solar power systems?",
+        "a": "Yes. We supply solar PV panels, inverters, battery storage, and provide commercial, industrial, and residential installation with ongoing maintenance."
+      },
+      {
+        "q": "How can I get technical support?",
+        "a": "Contact us by phone, email, WhatsApp, or the contact form. Our certified engineers provide responsive assistance for troubleshooting, maintenance, and warranty support."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "subtitle": "How we collect, use, and protect your information.",
+    "updated": "Last updated: August 2026",
+    "sections": [
+      {
+        "title": "Information We Collect",
+        "body": "When you submit a contact or quotation form, we collect the information you provide — such as your name, company, phone number, email address, and message content. We may also collect basic usage data when you visit our website."
+      },
+      {
+        "title": "How We Use Your Information",
+        "body": "We use your information solely to respond to inquiries, prepare quotations, deliver services, and communicate about your projects. We do not sell or share your personal data with third parties for marketing purposes."
+      },
+      {
+        "title": "Data Storage & Security",
+        "body": "Form submissions are processed securely through our email service provider. We take reasonable measures to protect your information from unauthorized access, alteration, or disclosure."
+      },
+      {
+        "title": "Your Rights",
+        "body": "You may request access to, correction of, or deletion of your personal data by contacting us at info@saypaseuth.com."
+      },
+      {
+        "title": "Contact",
+        "body": "For privacy-related questions, contact Saypaseuth Advance Co., Ltd. at info@saypaseuth.com or 020 59916868."
+      }
+    ]
   }
 }

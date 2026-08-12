@@ -1,15 +1,18 @@
 {
   "nav": {
     "home": "Home",
+    "about": "About",
     "products": "Products & Services",
     "team": "Team",
     "portfolio": "Portfolio",
     "partners": "Partners",
     "clients": "Clients",
+    "faq": "FAQ",
     "contact": "Contact Us",
     "requestQuote": "Request a Quotation"
   },
   "common": {
+    "brandEyebrow": "Saypaseuth Advance",
     "requestQuotation": "Request a Quotation",
     "requestFreeQuotation": "Request a Free Quotation",
     "contactUs": "Contact Us",
@@ -21,18 +24,18 @@
   },
   "home": {
     "hero": {
-      "headline": "Trusted IT Equipment & Enterprise Technology Solutions in Lao PDR",
-      "subheadline": "Delivering reliable IT infrastructure, security systems, networking solutions, and professional technical services."
+      "headline": "Trusted Technology, Power Protection & Aerial Survey Solutions in Lao PDR",
+      "subheadline": "Delivering reliable IT infrastructure, high-voltage protection, solar power systems, professional drone inspection systems, security solutions, and technical services."
     },
     "intro": {
       "title": "Your Trusted Technology Partner",
-      "body": "ID Solution Sole Co., Ltd. is a leading distributor of IT equipment, enterprise infrastructure, and security systems in Lao PDR. We provide supply, installation, maintenance, and technical support for organizations across the country — backed by certified engineers and official partnerships with the world's leading technology brands.",
-      "experience": "Years of experience serving government, banking, enterprise, and SME customers.",
+      "body": "Saypaseuth Advance Co., Ltd. is a leading distributor of IT equipment, enterprise infrastructure, high-voltage electrical protection, solar power systems, professional drone inspection systems, and security solutions in Lao PDR. We provide supply, installation, maintenance, and technical support for organizations across the country — backed by certified engineers and trusted technology partnerships.",
+      "experience": "Years of experience serving government, utilities, banking, enterprise, and SME customers.",
       "commitment": "We are committed to reliable solutions, honest advice, and dependable after-sales support."
     },
     "why": {
       "title": "Why Choose Us",
-      "subtitle": "What makes ID Solution the trusted choice for organizations across Lao PDR.",
+      "subtitle": "What makes Saypaseuth the trusted choice for organizations across Lao PDR.",
       "items": {
         "professionalTeam": {
           "title": "Professional Team",
@@ -71,13 +74,88 @@
         "manufacturing": "Manufacturing",
         "retail": "Retail",
         "hospitality": "Hospitality",
-        "smes": "SMEs"
+        "smes": "SMEs",
+        "energy": "Energy & Utilities"
+      }
+    },
+    "productsPreview": {
+      "title": "Products & Services",
+      "subtitle": "From enterprise IT and power protection to solar, security, and aerial survey — full supply, installation, and support.",
+      "items": {
+        "enterprise": "Enterprise IT & Data Center",
+        "electrical": "Electrical Protection",
+        "solar": "Solar Power",
+        "security": "CCTV & Access Control",
+        "drone": "Drone Inspection",
+        "services": "Installation & Support"
+      }
+    },
+    "portfolio": {
+      "title": "Recent Projects",
+      "subtitle": "Real installations and site work across Lao PDR and the region."
+    },
+    "clients": {
+      "title": "Trusted By Leading Organizations",
+      "subtitle": "Government, banking, utilities, and enterprise clients across Lao PDR."
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Your trusted technology, power, and security partner in Lao PDR since day one.",
+    "mission": {
+      "title": "Our Mission",
+      "body": "To deliver reliable IT infrastructure, electrical protection, solar power, and security solutions — with honest advice, certified expertise, and dependable after-sales support for every client we serve."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "body": "To be the most trusted technology and power solutions distributor in Lao PDR, empowering organizations to operate safely, efficiently, and sustainably."
+    },
+    "values": {
+      "title": "What We Stand For",
+      "items": {
+        "integrity": { "title": "Integrity", "body": "Honest recommendations and transparent pricing on every project." },
+        "quality": { "title": "Quality", "body": "Certified products from leading global brands, installed to professional standards." },
+        "service": { "title": "Service", "body": "Responsive support from quotation through installation and long-term maintenance." },
+        "partnership": { "title": "Partnership", "body": "Long-term relationships built on trust with government, enterprise, and SME clients." }
+      }
+    },
+    "stats": {
+      "title": "At a Glance",
+      "items": {
+        "experience": { "value": "15+", "label": "Years of Experience" },
+        "clients": { "value": "100+", "label": "Clients Served" },
+        "brands": { "value": "40+", "label": "Technology Partners" },
+        "support": { "value": "Nationwide", "label": "Service Coverage" }
       }
     }
   },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Common questions about our products, services, and quotation process.",
+    "items": [
+      { "q": "How do I request a quotation?", "a": "Use the quotation form on our Contact page or the home page. Tell us what you need and our team will respond within 1–2 business days with a free, no-obligation quote." },
+      { "q": "Do you provide installation and maintenance?", "a": "Yes. We offer end-to-end service — supply, installation, commissioning, scheduled maintenance, and technical support for all product categories." },
+      { "q": "Which areas do you serve?", "a": "We serve clients throughout Lao PDR. For regional projects, we have experience working in China, Thailand, and Vietnam as well." },
+      { "q": "What brands and products do you supply?", "a": "We partner with leading brands including Dell, HPE, Cisco, Fortinet, Hikvision, APC, and many more — covering IT, security, UPS, solar, and electrical protection." },
+      { "q": "Do you supply solar power systems?", "a": "Yes. We supply solar PV panels, inverters, battery storage, and provide commercial, industrial, and residential installation with ongoing maintenance." },
+      { "q": "How can I get technical support?", "a": "Contact us by phone, email, WhatsApp, or the contact form. Our certified engineers provide responsive assistance for troubleshooting, maintenance, and warranty support." }
+    ]
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "subtitle": "How we collect, use, and protect your information.",
+    "updated": "Last updated: August 2026",
+    "sections": [
+      { "title": "Information We Collect", "body": "When you submit a contact or quotation form, we collect the information you provide — such as your name, company, phone number, email address, and message content. We may also collect basic usage data when you visit our website." },
+      { "title": "How We Use Your Information", "body": "We use your information solely to respond to inquiries, prepare quotations, deliver services, and communicate about your projects. We do not sell or share your personal data with third parties for marketing purposes." },
+      { "title": "Data Storage & Security", "body": "Form submissions are processed securely through our email service provider. We take reasonable measures to protect your information from unauthorized access, alteration, or disclosure." },
+      { "title": "Your Rights", "body": "You may request access to, correction of, or deletion of your personal data by contacting us at info@saypaseuth.com." },
+      { "title": "Contact", "body": "For privacy-related questions, contact Saypaseuth Advance Co., Ltd. at info@saypaseuth.com or 020 59916868." }
+    ]
+  },
   "products": {
     "title": "Products & Services",
-    "subtitle": "A complete range of IT equipment, enterprise infrastructure, and security solutions — with supply, installation, maintenance, and support.",
+    "subtitle": "A complete range of IT equipment, enterprise infrastructure, electrical protection, solar power systems, aerial inspection systems, and security solutions — with supply, installation, maintenance, and support.",
     "consumer": {
       "title": "Consumer IT Equipment",
       "items": {
@@ -102,6 +180,45 @@
         "datacenter": "Data Center Equipment",
         "networkInfra": "Network Infrastructure",
         "backup": "Backup Solutions"
+      }
+    },
+    "electricalProtection": {
+      "title": "High-Voltage Electrical Protection",
+      "items": {
+        "surgeArresters": "Polymer Line Surge Arresters",
+        "transmissionProtection": "Transmission Line Protection",
+        "lightningProtection": "Lightning & Surge Protection",
+        "substationEquipment": "Substation Protection Equipment",
+        "hvSupply": "HV Equipment Supply",
+        "hvSupport": "Installation Support & Commissioning"
+      }
+    },
+    "solarPower": {
+      "title": "Solar Power & Installation",
+      "items": {
+        "solarPanels": "Solar PV Panels",
+        "inverters": "Solar Inverters & Hybrid Systems",
+        "mounting": "Mounting Structures & Racking",
+        "batteries": "Battery Storage Systems",
+        "commercialInstall": "Commercial & Industrial Installation",
+        "residentialInstall": "Residential & Rooftop Installation",
+        "gridTie": "Grid-Tie & Off-Grid Solutions",
+        "maintenance": "Solar System Maintenance & Monitoring"
+      }
+    },
+    "droneSurvey": {
+      "title": "Drone Inspection & Survey Systems",
+      "items": {
+        "enterpriseDrones": "Enterprise Inspection Drones",
+        "thermalImaging": "Thermal Imaging Payloads",
+        "lidarSurvey": "LiDAR & Surveying Payloads",
+        "gnssStations": "GNSS Reference Stations",
+        "flightAccessories": "Batteries, Controllers & Accessories",
+        "portablePower": "Portable Field Power Stations",
+        "fieldMeters": "Temperature & Airflow Meters",
+        "permitsSupport": "Drone Operation Permit Support",
+        "fieldComputing": "Field Computing Workstations",
+        "dataStorage": "High-Capacity Data Storage"
       }
     },
     "cctv": {
@@ -129,34 +246,110 @@
         "parking": "Parking Systems",
         "automatic": "Automatic Gate Barriers"
       }
+    },
+    "eyebrow": "Capabilities",
+    "heroTitle": "Products & Services",
+    "categoriesLabel": "Explore categories",
+    "services": {
+      "title": "End-to-End Delivery",
+      "subtitle": "Every category we supply is backed by the same full-service commitment.",
+      "items": {
+        "supply": {
+          "title": "Supply",
+          "body": "Sourcing and delivery of certified equipment."
+        },
+        "installation": {
+          "title": "Installation",
+          "body": "Deployment and commissioning by our engineers."
+        },
+        "maintenance": {
+          "title": "Maintenance",
+          "body": "Scheduled servicing to keep systems reliable."
+        },
+        "support": {
+          "title": "Technical Support",
+          "body": "Responsive assistance whenever you need it."
+        }
+      }
     }
   },
   "team": {
     "title": "Our Team",
-    "subtitle": "Meet the certified professionals behind ID Solution.",
-    "chart": { "title": "Organization Chart", "sales": "Sales", "technical": "Technical", "admin": "Administration" },
+    "subtitle": "Meet the certified professionals behind Saypaseuth.",
+    "chart": {
+      "title": "Organization Chart",
+      "sales": "Sales",
+      "technical": "Technical",
+      "admin": "Administration"
+    },
     "roles": {
-      "managingDirector": { "name": "Managing Director", "position": "Managing Director", "bio": "Leading ID Solution's strategy and growth with years of experience in the IT industry." },
-      "salesExecutive1": { "name": "Sales Executive", "position": "Sales Executive", "bio": "Helping customers find the right technology solutions for their organization." },
-      "salesExecutive2": { "name": "Sales Executive", "position": "Sales Executive", "bio": "Dedicated to building lasting client relationships and tailored proposals." },
-      "itEngineer1": { "name": "IT Engineer", "position": "IT Engineer", "bio": "Specialist in server, networking, and enterprise infrastructure deployment." },
-      "itEngineer2": { "name": "IT Engineer", "position": "IT Engineer", "bio": "Expert in CCTV, access control, and security system installation." },
-      "itEngineer3": { "name": "IT Engineer", "position": "IT Engineer", "bio": "Focused on maintenance, technical support, and customer success." },
-      "adminAccountant": { "name": "Admin & Accountant", "position": "Admin & Accountant", "bio": "Keeping operations smooth and customer accounts well managed." }
+      "managingDirector": {
+        "name": "Managing Director",
+        "position": "Managing Director",
+        "bio": "Leading Saypaseuth's strategy and growth with years of experience in the IT industry."
+      },
+      "salesExecutive1": {
+        "name": "Sales Executive",
+        "position": "Sales Executive",
+        "bio": "Helping customers find the right technology solutions for their organization."
+      },
+      "salesExecutive2": {
+        "name": "Sales Executive",
+        "position": "Sales Executive",
+        "bio": "Dedicated to building lasting client relationships and tailored proposals."
+      },
+      "itEngineer1": {
+        "name": "IT Engineer",
+        "position": "IT Engineer",
+        "bio": "Specialist in server, networking, and enterprise infrastructure deployment."
+      },
+      "itEngineer2": {
+        "name": "IT Engineer",
+        "position": "IT Engineer",
+        "bio": "Expert in CCTV, access control, and security system installation."
+      },
+      "itEngineer3": {
+        "name": "IT Engineer",
+        "position": "IT Engineer",
+        "bio": "Focused on maintenance, technical support, and customer success."
+      },
+      "adminAccountant": {
+        "name": "Admin & Accountant",
+        "position": "Admin & Accountant",
+        "bio": "Keeping operations smooth and customer accounts well managed."
+      }
     }
   },
   "portfolio": {
     "title": "Portfolio",
-    "subtitle": "A selection of our IT and security projects across Lao PDR.",
+    "subtitle": "Real project and site-work photography across IT, electrical protection, solar installation, and aerial survey — including regional work contexts from China, Thailand, and Vietnam.",
     "categories": {
       "itEquipmentSupply": "IT Equipment Supply",
       "serverInstallation": "Server Installation",
       "networkInfrastructure": "Network Infrastructure",
       "cctvInstallation": "CCTV Installation",
       "accessControlProjects": "Access Control Projects",
-      "enterpriseSolutions": "Enterprise Solutions"
+      "enterpriseSolutions": "Enterprise Solutions",
+      "electricalProtection": "Electrical Protection",
+      "solarInstallation": "Solar Power Installation",
+      "droneSurvey": "Drone Inspection & Survey"
     },
-    "all": "All"
+    "all": "All",
+    "regions": {
+      "china": "China",
+      "thailand": "Thailand",
+      "vietnam": "Vietnam"
+    },
+    "titles": {
+      "3": "Enterprise Server Room Installation",
+      "7": "CCTV Surveillance Deployment",
+      "13": "High-Voltage Protection Equipment",
+      "38": "Enterprise Network Infrastructure",
+      "46": "Data Center Server Deployment",
+      "53": "Solar Farm Installation",
+      "54": "Solar PV Array Supply",
+      "56": "Rooftop Solar Installation"
+    }
   },
   "partners": {
     "title": "Our Technology Partners",
@@ -175,7 +368,16 @@
   "clients": {
     "title": "Our Clients",
     "subtitle": "Trusted by organizations across Lao PDR.",
-    "empty": "Client references coming soon."
+    "sectionEyebrow": "Proven Partnerships",
+    "sectionTitle": "Powering Organizations Across Lao PDR",
+    "sectionSubtitle": "Government ministries, international agencies, leading banks, and major enterprises choose Saypaseuth for reliable IT infrastructure, security systems, and technical support they can count on.",
+    "summaries": {
+      "lsx": "HP servers, storage & Cisco networking",
+      "ntpc": "Dell EqualLogic & PowerEdge servers",
+      "rhb": "Lenovo System X & IBM tape library",
+      "bfl": "HP ProLiant servers",
+      "anz": "HP ProLiant servers"
+    }
   },
   "contact": {
     "title": "Contact Us",
@@ -187,6 +389,8 @@
     "facebook": "Facebook",
     "whatsapp": "WhatsApp",
     "mapTitle": "Find Us",
+    "hours": "Business Hours",
+    "hoursValue": "Monday – Friday, 8:00 AM – 5:00 PM",
     "form": {
       "title": "Send Us a Message",
       "fullName": "Full Name",
@@ -206,29 +410,75 @@
   "quote": {
     "title": "Request a Quotation",
     "subtitle": "Tell us what you need and we'll prepare a free, no-obligation quotation.",
+    "highlights": [
+      {
+        "title": "Free & No Obligation",
+        "body": "Receive a detailed quotation at no cost — no commitment required."
+      },
+      {
+        "title": "Fast Response",
+        "body": "Our team responds within 1–2 business days with tailored recommendations."
+      },
+      {
+        "title": "Certified Expertise",
+        "body": "Solutions backed by certified engineers and trusted global technology partners."
+      },
+      {
+        "title": "End-to-End Service",
+        "body": "Supply, installation, maintenance, and nationwide technical support."
+      }
+    ],
+    "trustLine": "Trusted by government agencies, international organizations, banks, and enterprises across Lao PDR.",
     "form": {
       "name": "Name",
       "company": "Company",
       "phone": "Phone",
       "email": "Email",
       "product": "Product / Service Required",
+      "category": "Category",
+      "categoryPlaceholder": "Select a category",
       "description": "Project Description",
       "submit": "Request a Free Quotation",
       "success": "Thank you! Your quotation request has been received. We will contact you shortly.",
       "error": "Something went wrong. Please try again or contact us directly.",
-      "sending": "Sending…"
+      "sending": "Sending…",
+      "subjectQuote": "New Quotation Request — Saypaseuth Advance",
+      "subjectContact": "New Inquiry — Saypaseuth Advance",
+      "categories": {
+        "it": "IT Equipment & Enterprise",
+        "electrical": "Electrical Protection",
+        "solar": "Solar Power",
+        "drone": "Drone Inspection",
+        "cctv": "CCTV & Security",
+        "access": "Access Control",
+        "other": "Other / Multiple"
+      }
     }
   },
   "footer": {
-    "description": "Distributor of IT equipment, enterprise infrastructure, CCTV security, access control, gate barriers, and office supplies in Lao PDR — including supply, installation, maintenance, and technical support.",
+    "description": "Distributor of IT equipment, enterprise infrastructure, high-voltage electrical protection, solar power systems, drone inspection, CCTV, access control, and gate barriers in Lao PDR — including supply, installation, maintenance, and technical support.",
     "quickLinks": "Quick Links",
     "products": "Products & Services",
     "contactTitle": "Contact",
     "viewOnMap": "View on Google Maps",
+    "privacy": "Privacy Policy",
+    "faq": "FAQ",
     "rights": "All Rights Reserved."
   },
   "meta": {
-    "title": "ID Solution Sole Co., Ltd. | IT Equipment & Enterprise Solutions in Laos",
-    "description": "Distributor of IT equipment, office supplies, enterprise infrastructure, CCTV systems, access control, gate barriers, and professional IT services in Lao PDR."
+    "title": "Saypaseuth Advance | IT, Solar, Power Protection & Security in Laos",
+    "description": "Distributor of IT equipment, high-voltage electrical protection, solar power systems, professional drone inspection systems, enterprise infrastructure, CCTV, access control, and technical services in Lao PDR.",
+    "pages": {
+      "home": { "title": "Saypaseuth Advance | IT, Solar & Power Solutions in Laos", "description": "Trusted technology partner in Lao PDR — IT infrastructure, solar power, electrical protection, drone survey, and security solutions with nationwide support." },
+      "about": { "title": "About Us | Saypaseuth Advance", "description": "Learn about Saypaseuth Advance — your trusted IT, solar, power protection, and security partner serving organizations across Lao PDR." },
+      "products": { "title": "Products & Services | Saypaseuth Advance", "description": "Enterprise IT, solar power, electrical protection, drone inspection, CCTV, access control, and end-to-end installation services in Lao PDR." },
+      "portfolio": { "title": "Portfolio | Saypaseuth Advance", "description": "Project photography from real IT, solar, electrical, and security installations across Lao PDR and the region." },
+      "partners": { "title": "Technology Partners | Saypaseuth Advance", "description": "Authorized partnerships with Dell, HPE, Cisco, Fortinet, Hikvision, and 40+ leading technology brands." },
+      "clients": { "title": "Our Clients | Saypaseuth Advance", "description": "Trusted by government, banking, utilities, and enterprise organizations across Lao PDR." },
+      "team": { "title": "Our Team | Saypaseuth Advance", "description": "Meet the certified professionals behind Saypaseuth Advance." },
+      "contact": { "title": "Contact Us | Saypaseuth Advance", "description": "Get in touch for inquiries, free quotations, and technical support. Vientiane Capital, Lao PDR." },
+      "faq": { "title": "FAQ | Saypaseuth Advance", "description": "Frequently asked questions about our products, services, quotations, and technical support." },
+      "privacy": { "title": "Privacy Policy | Saypaseuth Advance", "description": "How Saypaseuth Advance collects, uses, and protects your personal information." }
+    }
   }
 }

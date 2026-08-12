@@ -26,13 +26,13 @@ function write(path, content) {
   writeFileSync(full, content);
 }
 
-const PRIMARY = '#0B3B75';
-const SECONDARY = '#1E88E5';
-const ACCENT = '#FF9800';
+const PRIMARY = '#2A2B6D';
+const SECONDARY = '#3F418A';
+const ACCENT = '#F5B719';
 
 const files = [
   ['images/hero.svg', 'Enterprise Technology', 1600, 900, PRIMARY, SECONDARY],
-  ['images/about.svg', 'About ID Solution', 800, 600, SECONDARY, PRIMARY],
+  ['images/about.svg', 'About Saypaseuth', 800, 600, SECONDARY, PRIMARY],
   ['images/products-consumer.svg', 'Consumer IT', 800, 600, SECONDARY, PRIMARY],
   ['images/products-enterprise.svg', 'Enterprise Solutions', 800, 600, PRIMARY, SECONDARY],
   ['images/products-cctv.svg', 'CCTV Security', 800, 600, PRIMARY, ACCENT],

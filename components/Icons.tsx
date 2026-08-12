@@ -92,3 +92,22 @@ export const IconArrow = (p: IconProps) => (
 export const IconCheck = (p: IconProps) => (
   <svg {...base} {...p}><path d="M20 6 9 17l-5-5" /></svg>
 );
+export const IconZap = (p: IconProps) => (
+  <svg {...base} {...p}><path d="M13 2 3 14h9l-1 8 10-12h-9l1-8z" /></svg>
+);
+export const IconSun = (p: IconProps) => (
+  <svg {...base} {...p}>
+    <circle cx="12" cy="12" r="4" />
+    <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41" />
+  </svg>
+);
+export const IconDrone = (p: IconProps) => (
+  <svg {...base} {...p}>
+    <rect x="9.25" y="9.25" width="5.5" height="5.5" rx="1.5" />
+    <path d="M9 9 6.6 6.6M15 9l2.4-2.4M9 15l-2.4 2.4M15 15l2.4 2.4" />
+    <circle cx="4.8" cy="4.8" r="2.4" />
+    <circle cx="19.2" cy="4.8" r="2.4" />
+    <circle cx="4.8" cy="19.2" r="2.4" />
+    <circle cx="19.2" cy="19.2" r="2.4" />
+  </svg>
+);

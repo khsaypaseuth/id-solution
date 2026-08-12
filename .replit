@@ -1,0 +1,17 @@
+run = "npm run dev"
+modules = ["nodejs-22"]
+
+[nix]
+channel = "stable-24_05"
+
+[deployment]
+run = ["sh", "-c", "npm run start"]
+build = ["sh", "-c", "npm run build"]
+deploymentTarget = "cloudrun"
+
+[[ports]]
+localPort = 3000
+externalPort = 80
+
+[env]
+NODE_ENV = "production"

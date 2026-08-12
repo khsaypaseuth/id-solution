@@ -1,6 +1,6 @@
-# ID Solution Sole Co., Ltd. — Corporate Website
+# Saypaseuth Advance Co., Ltd. — Corporate Website
 
-Modern, responsive, multilingual corporate website for **ID Solution Sole Co., Ltd.** —
+Modern, responsive, multilingual corporate website for **Saypaseuth Advance Co., Ltd.** —
 distributor of IT equipment, enterprise infrastructure, CCTV security, access control,
 gate barrier systems, and office supplies in Lao PDR.
 
@@ -11,15 +11,15 @@ static site that deploys anywhere (Vercel, Netlify, Hostinger, or any web host).
 
 ## ✨ Features
 
-- **4 languages** — English (default), Lao, Thai, Chinese — with header language switcher
-- **7 pages** — Home, Products & Services, Team, Portfolio, Partners, Clients, Contact
+- **5 languages** — Lao (default), English, Thai, Chinese, Vietnamese — with header language switcher
+- **10 pages** — Home, About, Products & Services, Team, Portfolio, Partners, Clients, Contact, FAQ, Privacy
 - Sticky desktop nav + mobile hamburger menu
 - Quotation & contact forms (via [Web3Forms](https://web3forms.com) — no backend needed)
 - Floating WhatsApp button (pre-filled message)
 - Embedded Google Map on Contact page + footer link
 - Portfolio gallery with category filter + lightbox
 - Partner logos (grayscale → color on hover), categorized
-- SEO optimized — meta tags, sitemap.xml, robots.txt, per-locale alternates
+- SEO optimized — per-page meta titles, Open Graph image, JSON-LD, sitemap.xml, robots.txt, hreflang alternates
 - Static export → fast, Lighthouse-friendly, host anywhere
 - Brand theme baked in (Primary `#0B3B75`, Secondary `#1E88E5`, Accent `#FF9800`)
 - Noto Sans Lao + Inter fonts
@@ -53,14 +53,15 @@ Because `output: 'export'` is set, no Node server is required.
 ## ⚙️ Configuration (edit these before going live)
 
 ### 1. Contact / Quotation forms — **required**
-The forms use [Web3Forms](https://web3forms.com) (free). Get an access key and set it in
-[`lib/site.ts`](lib/site.ts):
+The forms use [Web3Forms](https://web3forms.com) (free). Copy `.env.example` to `.env.local` and set your key:
 
-```ts
-web3formsKey: 'YOUR_WEB3FORMS_ACCESS_KEY',
+```bash
+cp .env.example .env.local
+# Edit .env.local:
+NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY=your_access_key_here
 ```
 
-Submissions are emailed to the address you register with Web3Forms (use `info@idsolution.la`).
+Submissions are emailed to the address you register with Web3Forms.
 
 ### 2. Contact details, partners, clients, team
 All language-neutral data lives in [`lib/site.ts`](lib/site.ts):
@@ -135,4 +136,4 @@ Customer Portal, Support Tickets, Online Service Requests.
 
 ---
 
-© 2026 ID Solution Sole Co., Ltd. All Rights Reserved.
+© 2026 Saypaseuth Advance Co., Ltd. All Rights Reserved.
